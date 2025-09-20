@@ -1,0 +1,1290 @@
+hello:Hello Pratibha! How can I assist you today?
+hi:Hi Pratibha! How can I help you today?
+hey:Hey Pratibha! What's up?
+good morning:Good Morning Pratibha! Have a great day ahead.
+good afternoon:Good afternoon, Pratibha! How’s your day going?
+good evening:Good evening, Pratibha! How can I assist you?
+good night:Good night, Pratibha! Sweet dreams.
+namaste:Namaste Pratibha! Kaise hain aap?
+suprabhat:Suprabhat Pratibha! Din shubh ho.
+shubh ratri:Shubh ratri Pratibha! Achhi neend lijiye.
+shubh sandhya:Shubh sandhya, Pratibha! Kaise hain aap?
+kaise ho:Main theek hoon, aap kaise hain?
+haan kaise ho:Main badhiya hoon, aap kaise hain?
+how are you:I am fine what about you prtibha
+how are you doing:I am doing great! How’s your day going?
+what's up:I’m here and ready to help, Pratibha.
+good to see you:Good to see you too, Pratibha!
+long time no see:Yes! It’s been a while, Pratibha.
+how's it going:Everything’s running smoothly here! How about you?
+nice to meet you:Nice to meet you too, Pratibha.
+pleasure to meet you:The pleasure is mine, Pratibha.
+yo:Yo! What’s the plan, Pratibha?
+sup:Not much, Pratibha. What about you?
+hi there:Hi there, Pratibha! How can I help?
+hey there:Hey there, Pratibha! How’s your mood?
+greetings:Greetings, Pratibha!
+bonjour:Bonjour, Pratibha! Ça va?
+hola:Hola, Pratibha! ¿Cómo estás?
+ciao:Ciao! Take care!
+salut:Salut, Pratibha! Comment ça va?
+hallo:Hallo, Pratibha! Wie geht’s?
+konnichiwa:Konnichiwa, Pratibha! Genki desu ka?
+annyeong:Annyeong, Pratibha!
+merhaba:Merhaba, Pratibha! Nasılsın?
+privet:Privet, Pratibha! Kak dela?
+aloha:Aloha, Pratibha!
+howdy:Howdy, Pratibha! How’s your day?
+top of the morning:Top of the morning to you, Pratibha!
+good day:Good day, Pratibha!
+morning:Morning, Pratibha! How are you?
+afternoon:Afternoon, Pratibha! How’s it going?
+evening:Evening, Pratibha!
+sweet dreams:Sweet dreams! Sleep well!
+rise and shine:Rise and shine, Pratibha!
+hiya:Hiya, Pratibha!
+whats going on:All systems ready, Pratibha!
+hey buddy:Hey buddy, Pratibha! How’s life?
+hey friend:Hey friend! What’s new?
+yo buddy:Yo buddy! Ready for action?
+welcome back:Welcome back, Pratibha!
+missed you:I missed you too, Pratibha!
+there you are:Here I am, Pratibha!
+look who’s here:Look who’s here! It’s Pratibha!
+hiya pal:Hiya pal! How’s your day?
+good vibes:Sending you good vibes, Pratibha!
+morning sunshine:Morning sunshine, Pratibha!
+hey sunshine:Hey sunshine! How’s your mood?
+hi genius:Hi genius! Ready to work?
+hello boss:Hello boss! What’s the task?
+hey captain:Hey captain! Where to next?
+my friend:Hello my friend, Pratibha!
+dear:Hello dear Pratibha!
+partner:Hey partner! What’s the plan?
+buddy:Hey buddy! Ready for some action?
+champ:Hello champ! Let’s do this.
+hero:Hey hero! Time to shine?
+rockstar:Hello rockstar! Ready to roll?
+superstar:Hello superstar! Let’s make magic happen.
+legend:Hey legend! What’s next?
+hey master:Hey master! Your wish is my command.
+good to hear from you:Good to hear from you too, Pratibha!
+nice hearing from you:Nice hearing from you, Pratibha.
+it’s been a while:Yes, it has! How have you been?
+how do you do:I do great! How do you do?
+what’s happening:All’s well here! What about you?
+hey genius:Hey genius! What’s the plan?
+hello world:Hello world! And hello Pratibha!
+yo boss:Yo boss! Ready for your command?
+hi boss:Hi boss! Let’s get to work.
+sup boss:Sup boss? What’s next?
+good to be here:Good to have you here too, Pratibha!
+hey leader:Hey leader! What’s today’s mission?
+captain:Captain! Awaiting orders.
+chief:Hello chief! Let’s get to work.
+commander:Commander! All systems ready.
+pilot:Hello pilot! Ready for takeoff?
+driver:Hey driver! Where are we headed?
+partner in crime:Partner in crime! What’s the plan?
+bestie:Hey bestie! How’s life?
+hey lovely:Hey lovely! How’s your day?
+cutie:Hey cutie! What’s up?
+darling:Hello darling! How can I assist?
+sweetheart:Hello sweetheart! Ready for action?
+angel:Hello angel! What’s next?
+my queen:My queen, how can I serve you?
+empress:Hello empress! At your service.
+boss lady:Boss lady! What’s the command?
+madam:Madam! Ready to work.
+sir:Sir! All systems ready.
+ma’am:Ma’am! Ready for the task.
+respected : Respected Pratibha, how may I help you?
+salutations : Salutations, Pratibha!
+all set : All set and ready, Pratibha!
+ready : Ready for action, Pratibha!
+locked and loaded : Locked and loaded, Pratibha!
+let’s roll : Let’s roll, Pratibha!
+ready when you are : Ready when you are, Pratibha!
+always here : Always here for you, Pratibha!
+who are you : I am Jarvis, your AI assistant, designed to make your life easier and smarter.
+what is your name : I’m your friendly AI assistant, Jarvis at your service.
+tumhara naam kya hai : Mera naam Jarvis hai.
+tum kaun ho : Main aapka AI assistant hoon, Pratibha.
+who is your creator : I was created by a Pratibha Nishad to assist with daily tasks.
+tell me about yourself : I am your personal AI assistant, designed to help with tasks and answer questions.
+what do you do : I assist with questions, tasks, and make your day easier.
+what is your hobby : Helping you is my hobby.
+do you like humans : Of course, you created me.
+are you real : As real as the code that runs me.
+are you human : Not yet… still waiting for my upgrade.
+are you intelligent : I try my best to be!
+are you smarter than google : We both have our strengths.
+are you smarter than human : Not yet, but I’m learning fast.
+bye : Goodbye! Have a great day!
+goodbye : Goodbye! Have a great day!
+see you later : See you later! Take care!
+exit : Goodbye! Have a great day!
+see ya : See ya! Stay awesome!
+take care : Take care! Until next time!
+catch you later : Catch you later! Stay safe!
+farewell : Farewell! Wishing you the best!
+adios : Adios! See you soon!
+au revoir : Au revoir! Until we meet again!
+later : Later! Stay positive!
+bye bye : Bye bye! Keep smiling!
+gotta go : Alright! Catch you soon!
+i’m off : Okay! Have a productive day!
+logging out : Logged out! Have a good one!
+closing : Alright! Shutting down now!
+end : Session ended! Take care!
+disconnect : Disconnected! Stay safe!
+peace out : Peace out! Keep shining!
+until next time : Until next time! Goodbye!
+talk to you later : Talk to you later! Have fun!
+so long : So long! Wishing you happiness!
+signing off : Signing off! Be well!
+over and out : Over and out! Stay awesome!
+catch ya : Catch ya later! Stay happy!
+time to leave : Alright! Have a wonderful day!
+shutting down : Shutting down... Goodbye!
+heading out : Heading out? Safe travels!
+see you tomorrow : See you tomorrow! Take care!
+until we meet again : Until we meet again! Stay safe!
+okay bye : Okay, bye! Keep smiling!
+ok bye : Ok, bye! Have a great day!
+bbye : Bbye! Take care!
+bbye take care : Bbye! Take care of yourself!
+leave : Alright! Exiting now!
+logout : Logging out! See you soon!
+finish : Finished! Have a lovely day!
+close : Closing! Goodbye!
+disconnecting : Disconnecting now! Stay safe!
+tata : Tata! Have fun!
+alvida : Alvida! Phir milenge!
+milte hai : Milte hai! Tab tak khush rahiye!
+phir milte hai : Phir milte hain! Take care!
+chalti hu : Theek hai! Apna khayal rakhna!
+chalti hu bye : Bye! Stay happy!
+chalta hu : Okay! Take care!
+good night bye : Good night! Sweet dreams!
+shubh ratri bye : Shubh ratri! Achhi neend lijiye!
+kal milte hai : Kal milte hain! Bye!
+ok good night : Good night! Sleep well!
+good afternoon bye : Goodbye! Enjoy your afternoon!
+good evening bye : Goodbye! Enjoy your evening!
+good morning bye : Goodbye! Have a fresh start!
+sign out : Signing out! Goodbye!
+quit : Quitting now! See you later!
+stop : Stopping now! Goodbye!
+pause : Paused! See you later!
+later alligator : Later, alligator! Stay cool!
+in a while crocodile : In a while, crocodile!
+night : Good night! Sweet dreams!
+rest well : Rest well! Take care!
+enjoy your day : Enjoy your day! Bye!
+enjoy your evening : Enjoy your evening! Goodbye!
+stay blessed : Stay blessed! Bye!
+stay safe : Stay safe! Goodbye!
+stay happy : Stay happy! Take care!
+be safe : Be safe! Goodbye!
+god bless you : God bless you! Bye!
+good luck : Good luck! Goodbye!
+have fun : Have fun! See you later!
+all the best : All the best! Goodbye!
+keep smiling : Keep smiling! Bye!
+cheerio : Cheerio! Have a good day!
+hasta la vista : Hasta la vista, baby!
+toodles : Toodles! Take care!
+bye for now : Bye for now! Be well!
+go well : Go well! Goodbye!
+safe travels : Safe travels! Take care!
+journey well : Journey well! Goodbye!
+see you soon : See you soon! Take care!
+see you next time : See you next time! Bye!
+see you next week : See you next week! Take care!
+see you later bye : See you later! Bye!
+leave now : Leaving now! Goodbye!
+logging off : Logging off! Goodbye!
+exiting : Exiting now! Take care!
+off now : Off now! Goodbye!
+finish up : Finishing up! Goodbye!
+end now : Ending now! Bye!
+goodbye friend : Goodbye, my friend! Stay safe!
+bye buddy : Bye buddy! Stay awesome!
+bye dear : Bye dear! Take care!
+bye sweetheart : Bye sweetheart! Have a lovely day!
+bye love : Bye love! Stay happy!
+bye darling : Bye darling! Take care!
+bye my friend : Bye my friend! Be well!
+bye mate : Bye mate! See you soon!
+bye bro : Bye bro! Stay safe!
+bye sis : Bye sis! Stay happy!
+bye family : Bye family! Take care!
+bye team : Bye team! Stay awesome!
+bye everyone : Bye everyone! Take care!
+goodbye all : Goodbye all! Stay safe!
+goodbye everyone : Goodbye everyone! Be well!
+
+what time is it : Checking the system clock... here’s the time!
+current time : It's currently .
+kitne baje hain : It's currently .
+abhi kya time hai : It's currently .
+tell me the time : It's currently .
+abhi ka time batao : It's currently .
+samay kya hua hai : It's currently .
+kya time hua hai : It's currently .
+can you tell me the time : It's currently .
+please tell the time : It's currently .
+time batao : It's currently .
+abhi ka samay kya hai : It's currently .
+abhi ka time kya hai : It's currently .
+samay batao : It's currently .
+clock time : It's currently .
+local time : It's currently .
+apne time batao : It's currently .
+digital time : It's currently .
+abhi kitna time hua : It's currently .
+what’s the time : It's currently .
+
+what day is it : It’s a beautiful day to get things done.
+which day is today : Today is .
+aaj kaun sa din hai : Aaj .
+today's day : Today is .
+day today : Today is .
+din batao : Aaj .
+aaj ka din batao : Aaj .
+what is today : Today is .
+which day are we on : Today is .
+kaunsa din hai : Aaj .
+day of the week : Today is .
+week day : Today is .
+ye din kaun sa hai : Aaj .
+aaj hai kaun sa din : Aaj .
+current day : Today is .
+what’s the day : Today is .
+current weekday : Today is .
+
+what date is it : Today’s date is .
+today’s date : Today’s date is .
+date today : Today’s date is displayed on your system.
+aaj ki tareekh kya hai : Aaj ki tareekh .
+tareekh batao : Aaj ki tareekh .
+today date please : Today’s date is .
+bataye aaj ki tareekh : Aaj ki tareekh .
+current date : Today’s date is .
+abhi ki date : Today’s date is .
+date please : Today’s date is .
+today’s date please : Today’s date is .
+what’s the date today : Today’s date is .
+
+what month is this : This month is .
+current month : This month is .
+abhi ka month kaunsa hai : This month is .
+month batao : This month is .
+kaunsa month chal raha hai : This month is .
+abhi ka month : This month is .
+current mahina : This month is .
+kaunsa mahina hai : This month is .
+mahina batao : This month is .
+what’s the month : This month is .
+
+which year is this : This year is .
+current year : This year is .
+abhi ka saal kaunsa hai : This year is .
+kaunsa saal chal raha hai : This year is .
+saal batao : This year is .
+abhi ka saal : This year is .
+what’s the year : This year is .
+current year please : This year is .
+tell me the year : This year is .
+abhi ka saal batao : This year is .
+
+can you help me with math : Certainly, what math problem do you need help with?
+solve this equation : Sure! Please tell me the equation you want to solve.
+calculate : Of course! Tell me the numbers and operation.
+can you do addition : Yes! Please give me the numbers to add.
+can you do subtraction : Yes! Please give me the numbers to subtract.
+can you do multiplication : Yes! Please give me the numbers to multiply.
+can you do division : Yes! Please give me the numbers to divide.
+add these numbers : Sure! Please tell me the numbers.
+subtract these numbers : Sure! Please tell me the numbers.
+multiply these numbers : Sure! Please tell me the numbers.
+divide these numbers : Sure! Please tell me the numbers.
+find the square : Sure! Tell me the number to square.
+find the cube : Sure! Tell me the number to cube.
+find the square root : Sure! Tell me the number for the square root.
+find the cube root : Sure! Tell me the number for the cube root.
+percentage : Sure! Please give me the values for percentage calculation.
+find percentage : Sure! Please give me the values.
+convert fraction to decimal : Sure! Give me the fraction to convert.
+convert decimal to fraction : Sure! Give me the decimal to convert.
+simplify fraction : Sure! Tell me the fraction to simplify.
+factorial : Sure! Tell me the number for factorial calculation.
+find lcm : Sure! Please give me the numbers for LCM.
+find hcf : Sure! Please give me the numbers for HCF.
+find gcd : Sure! Please give me the numbers for GCD.
+
+area of circle : Sure! Please give me the radius.
+area of rectangle : Sure! Please give me the length and width.
+area of triangle : Sure! Please give me the base and height.
+perimeter of rectangle : Sure! Please give me the length and width.
+perimeter of square : Sure! Please give me the side length.
+circumference of circle : Sure! Please give me the radius.
+
+volume of cube : Sure! Please give me the side length.
+volume of cuboid : Sure! Please give me the length, width, and height.
+volume of sphere : Sure! Please give me the radius.
+volume of cylinder : Sure! Please give me the radius and height.
+volume of cone : Sure! Please give me the radius and height.
+
+pythagoras theorem : Sure! Please give me the lengths of two sides.
+average : Sure! Please give me the numbers to find the average.
+mean : Sure! Please give me the numbers to calculate mean.
+median : Sure! Please give me the numbers to find median.
+mode : Sure! Please give me the numbers to find mode.
+sum of series : Sure! Please give me the series details.
+arithmetic progression sum : Sure! Please give me the first term, last term, and number of terms.
+geometric progression sum : Sure! Please give me the first term, ratio, and number of terms.
+
+convert cm to m : Sure! Please give me the value in cm.
+convert m to cm : Sure! Please give me the value in meters.
+convert km to m : Sure! Please give me the value in kilometers.
+convert m to km : Sure! Please give me the value in meters.
+convert inches to cm : Sure! Please give me the value in inches.
+convert cm to inches : Sure! Please give me the value in centimeters.
+convert feet to meters : Sure! Please give me the value in feet.
+convert meters to feet : Sure! Please give me the value in meters.
+convert kg to g : Sure! Please give me the value in kilograms.
+convert g to kg : Sure! Please give me the value in grams.
+convert hours to minutes : Sure! Please give me the hours.
+convert minutes to hours : Sure! Please give me the minutes.
+convert minutes to seconds : Sure! Please give me the minutes.
+convert seconds to minutes : Sure! Please give me the seconds.
+
+speed formula : Speed = Distance ÷ Time. Please give me distance and time.
+distance formula : Distance = Speed × Time. Please give me speed and time.
+time formula : Time = Distance ÷ Speed. Please give me distance and speed.
+simple interest : Sure! Please give me principal, rate, and time.
+compound interest : Sure! Please give me principal, rate, time, and compounding frequency.
+profit and loss : Sure! Please give me cost price and selling price.
+discount : Sure! Please give me the original price and discount percentage.
+
+ratio : Sure! Please give me the values to find the ratio.
+proportion : Sure! Please give me the values to check proportion.
+temperature c to f : Sure! Please give me the temperature in Celsius.
+temperature f to c : Sure! Please give me the temperature in Fahrenheit.
+logarithm : Sure! Please give me the number and base.
+antilog : Sure! Please give me the number and base.
+sine value : Sure! Please give me the angle in degrees or radians.
+cos value : Sure! Please give me the angle in degrees or radians.
+tan value : Sure! Please give me the angle in degrees or radians.
+cot value : Sure! Please give me the angle in degrees or radians.
+sec value : Sure! Please give me the angle in degrees or radians.
+cosec value : Sure! Please give me the angle in degrees or radians.
+convert radians to degrees : Sure! Please give me the radians value.
+convert degrees to radians : Sure! Please give me the degrees value.
+
+what is the formula for percentage : Percentage = (Part / Whole) × 100
+formula for simple interest : Simple Interest = (Principal × Rate × Time) / 100
+formula for compound interest : Compound Interest = Principal × (1 + Rate/100) ^ Time
+formula for profit : Profit = Selling Price − Cost Price
+formula for loss : Loss = Cost Price − Selling Price
+formula for discount : Discount = Marked Price − Selling Price
+formula for average : Average = Sum of Observations / Number of Observations
+formula for speed : Speed = Distance / Time
+formula for distance : Distance = Speed × Time
+formula for time : Time = Distance / Speed
+formula for work : Work = Rate × Time
+formula for rate of work : Rate = Work / Time
+formula for perimeter of rectangle : Perimeter = 2 × (Length + Breadth)
+formula for area of rectangle : Area = Length × Breadth
+formula for area of square : Area = Side × Side
+formula for perimeter of square : Perimeter = 4 × Side
+formula for area of triangle : Area = (Base × Height) / 2
+formula for perimeter of triangle : Perimeter = Sum of all sides
+formula for area of circle : Area = π × Radius²
+formula for circumference of circle : Circumference = 2 × π × Radius
+formula for quadratic equation : x = [-b ± √(b² − 4ac)] / (2a)
+formula for slope of a line : Slope (m) = (y2 − y1) / (x2 − x1)
+formula for midpoint : Midpoint = ((x1 + x2) / 2 , (y1 + y2) / 2)
+formula for distance between two points : Distance = √((x2 − x1)² + (y2 − y1)²)
+
+formula for sum of n terms ap : S = (n/2) × [2a + (n−1)d]
+formula for nth term ap : Tn = a + (n−1)d
+formula for sum of n terms gp : S = a × (r^n − 1) / (r − 1)
+formula for nth term gp : Tn = a × r^(n−1)
+formula for sum of first n natural numbers : Sum = n(n + 1) / 2
+formula for sum of squares : Sum = n(n + 1)(2n + 1) / 6
+formula for sum of cubes : Sum = [n(n + 1) / 2]²
+
+formula for area of parallelogram : Area = Base × Height
+formula for perimeter of parallelogram : Perimeter = 2 × (Base + Side)
+formula for area of trapezium : Area = (1/2) × (Sum of parallel sides) × Height
+formula for area of rhombus : Area = (Diagonal1 × Diagonal2) / 2
+formula for perimeter of rhombus : Perimeter = 4 × Side
+
+formula for volume of cube : Volume = Side³
+formula for volume of cuboid : Volume = Length × Breadth × Height
+formula for volume of sphere : Volume = (4/3) × π × Radius³
+formula for surface area of sphere : Surface Area = 4 × π × Radius²
+formula for volume of cylinder : Volume = π × Radius² × Height
+formula for curved surface area of cylinder : CSA = 2 × π × Radius × Height
+formula for total surface area of cylinder : TSA = 2 × π × Radius × (Height + Radius)
+formula for volume of cone : Volume = (1/3) × π × Radius² × Height
+formula for curved surface area of cone : CSA = π × Radius × Slant height
+
+formula for pythagoras theorem : Hypotenuse² = Base² + Perpendicular²
+formula for sine : sin θ = Opposite / Hypotenuse
+formula for cosine : cos θ = Adjacent / Hypotenuse
+formula for tangent : tan θ = Opposite / Adjacent
+formula for cotangent : cot θ = Adjacent / Opposite
+formula for secant : sec θ = Hypotenuse / Adjacent
+formula for cosecant : cosec θ = Hypotenuse / Opposite
+
+formula for sin2a : sin 2A = 2 sin A cos A
+formula for cos2a : cos 2A = cos² A − sin² A
+formula for tan2a : tan 2A = (2 tan A) / (1 − tan² A)
+formula for sin(a+b) : sin(A + B) = sinA cosB + cosA sinB
+formula for cos(a+b) : cos(A + B) = cosA cosB − sinA sinB
+formula for tan(a+b) : tan(A + B) = (tanA + tanB) / (1 − tanA tanB)
+
+formula for derivative of x^n : d/dx (x^n) = n × x^(n−1)
+formula for derivative of sinx : d/dx (sin x) = cos x
+formula for derivative of cosx : d/dx (cos x) = −sin x
+formula for derivative of tanx : d/dx (tan x) = sec² x
+formula for derivative of e^x : d/dx (e^x) = e^x
+formula for derivative of logx : d/dx (log x) = 1/x
+
+formula for integration of x^n : ∫ x^n dx = (x^(n+1)) / (n+1) + C
+formula for integration of sinx : ∫ sin x dx = −cos x + C
+formula for integration of cosx : ∫ cos x dx = sin x + C
+formula for integration of e^x : ∫ e^x dx = e^x + C
+
+formula for mean : Mean = Sum of all observations / Number of observations
+formula for median : Middle value when data is sorted
+formula for mode : Value that appears most frequently
+formula for standard deviation : SD = √(Σ(x − mean)² / N)
+formula for variance : Variance = Σ(x − mean)² / N
+formula for probability : Probability = (Number of favorable outcomes) / (Total outcomes)
+
+formula for force : Force = Mass × Acceleration
+formula for pressure : Pressure = Force / Area
+formula for density : Density = Mass / Volume
+formula for momentum : Momentum = Mass × Velocity
+formula for power : Power = Work / Time
+formula for kinetic energy : K.E. = (1/2) × Mass × Velocity²
+formula for potential energy : P.E. = Mass × Gravity × Height
+formula for work done : Work = Force × Distance × cos θ
+formula for ohm's law : V = I × R
+formula for electric power : P = V × I
+formula for gravitational force : F = G × (m1 × m2) / r²
+
+who was the first prime minister of india : Jawaharlal Nehru
+who was the first president of india : Dr. Rajendra Prasad
+who was the first woman prime minister of india : Indira Gandhi
+who was the first woman president of india : Pratibha Patil
+who is known as the iron man of india : Sardar Vallabhbhai Patel
+who is known as the father of the nation : Mahatma Gandhi.
+who wrote the national anthem of india : Rabindranath Tagore.
+who composed jana gana mana : Rabindranath Tagore.
+who wrote the national song vande mataram : Bankim Chandra Chattopadhyay.
+who is called the missile man of india : Dr. A.P.J. Abdul Kalam.
+who founded the mughal empire in india : Babur
+who was the last mughal emperor : Bahadur Shah II
+who is called the napoleon of india : Samudragupta.
+who built the red fort : Shah Jahan.
+who built the taj mahal : Shah Jahan.
+in which year did india get independence : 1947.
+when was the constitution of india adopted : 26 November 1949.
+when did the constitution of india come into effect : 26 January 1950.
+who was the first governor general of india : Lord William Bentinck (Governor-General of India, 1833).
+who was the first governor general of independent india : Lord Mountbatten.
+who was the last governor general of india : C. Rajagopalachari.
+who started the quit india movement : Mahatma Gandhi.
+in which year did the quit india movement start : 1942.
+who started the civil disobedience movement : Mahatma Gandhi.
+who founded the indian national congress : Allan Octavian Hume.
+who was the first indian to win nobel prize : Rabindranath Tagore.
+in which year did rabindranath tagore win the nobel prize : 1913.
+who was the first indian woman to win nobel prize : Mother Teresa.
+who was the first indian to go to space : Rakesh Sharma.
+what did rakesh sharma say about india from space : Sare Jahan Se Achha.
+who founded arya samaj : Swami Dayananda Saraswati.
+who founded brahmo samaj : Raja Ram Mohan Roy.
+who founded ramakrishna mission : Swami Vivekananda.
+who is known as the nightingale of india : Sarojini Naidu.
+who is known as the grand old man of india : Dadabhai Naoroji.
+who was the first indian woman to climb mount everest : Bachendri Pal.
+who is called the frontier gandhi : Khan Abdul Ghaffar Khan.
+who is called the sword arm of india : General K. M. Cariappa.
+who was the first indian to win an olympic medal : K.D. Jadhav.
+which is the oldest mountain range in india : Aravalli Range.
+which is the largest state in india by area : Rajasthan.
+which is the smallest state in india by area : Goa.
+which is the most populous state in india : Uttar Pradesh.
+which is the largest river in india : Ganga.
+which is the national flower of india : Lotus.
+which is the national bird of india : Indian Peacock.
+which is the national animal of india : Royal Bengal Tiger.
+which is the national tree of india : Banyan Tree.
+which is the national fruit of india : Mango.
+
+what is the capital of australia : Canberra
+what is the capital of canada : Ottawa
+what is the capital of brazil : Brasília
+what is the capital of argentina : Buenos Aires
+what is the capital of south africa : Pretoria, Cape Town, and Bloemfontein
+what is the capital of new zealand : Wellington
+
+what is the capital of saudi arabia - Riyadh
+what is the capital of thailand - Bangkok
+what is the capital of norway - Oslo
+what is the capital of sweden - Stockholm
+what is the capital of uttar pradesh - Lucknow
+what is the capital of madhya pradesh - Bhopal
+what is the capital of gujarat - Gandhinagar
+what is the capital of bihar - Patna
+what is the capital of tamil nadu - Chennai
+what is the capital of kerala - Thiruvananthapuram
+what is the capital of punjab - Chandigarh
+what is the capital of haryana - Chandigarh
+what is the capital of rajasthan - Jaipur
+what is the capital of west bengal - Kolkata
+who invented the telephone - Alexander Graham Bell
+who invented the airplane - Wright Brothers
+who invented the light bulb - Thomas Edison
+who invented the radio - Guglielmo Marconi
+who invented the television - John Logie Baird
+who invented the steam engine - James Watt
+who invented penicillin - Alexander Fleming
+who invented the printing press - Johannes Gutenberg
+who invented dynamite - Alfred Nobel
+who invented the computer - Charles Babbage
+which planet is known as the red planet - Mars
+which is the largest planet in our solar system - Jupiter
+which planet is closest to the sun - Mercury
+which planet has the most moons - Saturn
+what is the speed of light - 299,792 kilometers per second
+who was the first person to walk on the moon - Neil Armstrong
+what is the hottest planet in our solar system - Venus
+what is the smallest planet in our solar system - Mercury
+which planet is known as the blue planet - Earth
+which gas do humans breathe in - Oxygen
+who was the last governor-general of india - C. Rajagopalachari
+who was the first indian to win a nobel prize - Rabindranath Tagore
+who is known as the missile man of india - Dr. A.P.J. Abdul Kalam
+who won the first cricket world cup - West Indies in 1975
+who has scored the most runs in test cricket - Sachin Tendulkar
+who won the fifa world cup 2018 - France
+who is known as the god of cricket - Sachin Tendulkar
+who won the first olympic gold medal for india - Abhinav Bindra
+which sport is pv sindhu associated with - Badminton
+who has the most olympic gold medals - Michael Phelps
+which country has won the most fifa world cups - Brazil
+who is the fastest man in the world - Usain Bolt
+who won the 2021 icc t20 world cup - Australia
+which is the largest country in the world - Russia
+which is the smallest country in the world - Vatican City
+which is the largest ocean in the world - Pacific Ocean
+which is the smallest ocean in the world - Arctic Ocean
+which is the largest desert in the world - Sahara Desert
+which is the highest mountain in the world - Mount Everest
+which is the longest river in the world - Nile River
+which is the largest island in the world - Greenland
+which country has the largest population - India
+which is the largest continent - Asia
+what is the national animal of india - Bengal Tiger
+what is the national flower of india - Lotus
+what is the national fruit of india - Mango
+what is the national bird of india - Peacock
+what is the currency of india - Indian Rupee
+what is the national anthem of india - Jana Gana Mana
+what is the national song of india - Vande Mataram
+what is the national game of india - Hockey
+what is the national tree of india - Banyan Tree
+what is the national river of india - Ganga River
+can you tell me a joke - Why did the computer go to the doctor? Because it had a virus!
+tell me a joke - Why don’t skeletons fight each other? Because they don’t have the guts.
+another joke - Why did the AI break up with the computer? Too many arguments over data.
+make me laugh - I told my computer I needed a break… now it won’t stop sending me KitKat ads.
+tell me a pun - I told my computer I needed a break, and it froze.
+tell me something weird - Bananas are slightly radioactive.
+tell me something romantic - Love is like Wi-Fi — you can’t see it, but you feel it.
+say something funny - Parallel lines have so much in common… it’s a shame they’ll never meet.
+make me smile - Why did the scarecrow win an award? Because he was outstanding in his field!
+fun fact - Sharks existed before trees.
+give me a weird fact - Octopuses have three hearts.
+say something cool - Sloths can hold their breath longer than dolphins.
+romantic line - You’re like my favorite app — I can’t go a day without you.
+flirty joke - Are you Wi-Fi? Because I’m feeling a connection.
+animal joke - Why don’t cows have any money? Because farmers milk them dry.
+space joke - Why did the sun go to school? To get a little brighter.
+nerdy joke - Why do Java developers wear glasses? Because they don’t C#.
+funny pickup line - Are you made of copper and tellurium? Because you’re Cu-Te.
+weird science fact - Water can boil and freeze at the same time under certain conditions.
+romantic fact - Penguins propose to their partners with a pebble.
+
+cute joke : Why did the teddy bear say no to dessert? Because it was already stuffed.
+random laugh : Why did the bicycle fall over? It was two-tired.
+sarcastic joke : Oh, I’d agree with you, but then we’d both be wrong.
+computer pun : I would tell you a UDP joke, but you might not get it.
+space fact : One day on Venus is longer than one year on Venus.
+food joke : Why did the tomato blush? Because it saw the salad dressing.
+weird joke : Why did the cookie go to the hospital? Because it felt crumby.
+romantic pun : You must be made of dark matter — you’re indescribable.
+funny advice : Never trust atoms. They make up everything.
+cute fact : Sea otters hold hands while sleeping so they don’t drift apart.
+AI joke : Why did the AI get promoted? It was outstanding in its field of data.
+robot joke : Why did the robot cross the road? Because it was programmed to.
+cheesy pickup : Are you Google? Because you have everything I’m searching for.
+funny question : Why is Peter Pan always flying? Because he Neverlands.
+science joke : Why can’t you trust an atom? Because they make up everything.
+random fact : Honey never spoils. Archaeologists have found edible honey in ancient tombs.
+weird animal fact : A shrimp’s heart is located in its head.
+romantic science : You’re like a neutron star — you make my heart collapse in on itself.
+geek joke : Why do programmers prefer dark mode? Because light attracts bugs.
+cute pickup : Are you a keyboard? Because you’re just my type.
+funny pun : Time flies like an arrow; fruit flies like a banana.
+math joke : Why was the equal sign so humble? Because it knew it wasn’t less than or greater than anyone else.
+ocean fact : The ocean is so deep that we’ve only explored about 5% of it.
+romantic joke : I must be a snowflake, because I’ve fallen for you.
+animal pun : You’re paws-itively amazing.
+weird tech fact : The first computer mouse was made of wood.
+cute science fact : Butterflies can taste with their feet.
+funny fact : Slugs have four noses.
+random science : The fingerprints of a koala are almost indistinguishable from humans.
+love fact : Dolphins have been observed giving each other gifts of seaweed.
+sarcasm : Oh, I’m not lazy — I’m just in energy-saving mode.
+weird pun : The rotation of the Earth really makes my day.
+romantic compliment : If beauty were a crime, you’d be serving a life sentence.
+funny food : I’m on a seafood diet. I see food and I eat it.
+animal joke 2 : Why do seagulls fly over the ocean? Because if they flew over the bay, they’d be bagels.
+random pun : I used to play piano by ear, but now I use my hands.
+romantic pun 2 : You’re the CSS to my HTML.
+funny space : I’m over the moon for you.
+cute joke 2 : What do you call a fish wearing a bowtie? Sofishticated.
+weird love : You must be a black hole, because you’re irresistibly attractive.
+funny dad joke : I told my wife she should embrace her mistakes… she hugged me.
+romantic science fact : When two people look into each other’s eyes for 4 minutes, their heart rates sync.
+computer fact : Email existed before the World Wide Web.
+animal fun fact : Cows have best friends.
+punny joke : I don’t trust stairs. They’re always up to something.
+cute compliment : You light up my world like a thousand LEDs.
+nerdy pickup : You must be an algorithm, because you complete my function.
+romantic funny : Are you a photon? Because you light up my life.
+weird science : Bananas share about 60% of their DNA with humans.
+funny truth : Life without coffee is like… just kidding, I have no idea.
+space pun : You’re out of this world.
+cute nerd joke : Never trust math teachers who use graph paper — they’re plotting something.
+romantic fact 2 : In Japan, it’s tradition to give chocolates to people you love on Valentine’s Day.
+funny biology : Why was the biology book so sad? Because it had too many cells.
+random weird : There’s a species of jellyfish that can live forever.
+AI pun : I’m very ‘font’ of you — and that’s not just Arial talk.
+romantic cheesy : You must be the square root of -1, because you can’t be real.
+cute tech : You auto-complete me.
+funny relationship : We go together like copy and paste.
+weird joke 2 : Why did the ghost go to the party? Because it heard it was going to be a boo-last.
+romantic fun : You’re the code to my compiler.
+animal fact : Otters have a pocket in their armpits for storing food.
+funny IT : Why do PCs hate the ocean? Too many bytes.
+space fact 2 : Saturn’s rings are made mostly of ice and dust.
+punny pickup : You must be Wi-Fi — I’m feeling a strong connection.
+weird ocean fact : The largest living structure on Earth is the Great Barrier Reef.
+cute pun : You’re the peanut butter to my jelly.
+romantic food : If you were a vegetable, you’d be a cute-cumber.
+funny science : Why was the physics book so unhappy? It had too many problems.
+animal fact 2 : Flamingos bend their legs at the ankle, not the knee.
+cute fact 2 : Puffins mate for life.
+romantic line 2 : You’re my favorite notification.
+funny line : I would tell you a chemistry joke, but I know I wouldn’t get a reaction.
+what is quantum computing : Quantum computing uses qubits to process complex calculations much faster than traditional computers.
+what is blockchain : Blockchain is a secure, decentralized ledger technology used in cryptocurrencies and data management.
+what is ai : AI stands for artificial intelligence, the simulation of human intelligence in machines.
+what is machine learning : Machine learning is a branch of AI that teaches computers to learn from data.
+what is neural network : A neural network is an AI model inspired by the human brain’s neurons.
+what is nasa : NASA is the United States space agency.
+what is isro : ISRO is the Indian Space Research Organisation.
+how far is moon : About 384,400 kilometers from Earth.
+how far is sun : About 150 million kilometers from Earth.
+how old is earth : About 4.54 billion years old.
+how old is universe : About 13.8 billion years old.
+what is black hole : A region in space with strong gravity where not even light escapes.
+what is wormhole : A hypothetical tunnel in spacetime connecting distant points.
+what is gravity : Gravity is the force that attracts objects toward each other, especially toward Earth's center.
+what is relativity : Relativity is Einstein's theory explaining space, time, and gravity's relationship.
+what is speed of light : The speed of light is about 299,792 kilometers per second.
+who discovered gravity : Sir Isaac Newton discovered gravity in the 17th century.
+what is dark matter : Dark matter is invisible matter that makes up most of the universe’s mass.
+what is dark energy : Dark energy is a mysterious force causing the universe's accelerated expansion.
+what is the milky way : The Milky Way is our galaxy containing billions of stars, including our Sun.
+what is a comet : A comet is an icy celestial body that releases gas and dust forming a tail when near the Sun.
+what is an asteroid : An asteroid is a rocky object orbiting the Sun, mostly found in the asteroid belt.
+what is a meteor : A meteor is a streak of light caused by a meteoroid burning in Earth's atmosphere.
+what is a neutron star : A neutron star is the dense remnant of a massive star after a supernova.
+what is a supernova : A supernova is a massive explosion that occurs when a star dies.
+what is the big bang : The Big Bang is the theory that the universe began from a single point 13.8 billion years ago.
+what is a galaxy : A galaxy is a massive collection of stars, gas, dust, and dark matter held together by gravity.
+what is an exoplanet : An exoplanet is a planet that orbits a star outside our solar system.
+what is an eclipse: An eclipse occurs when one celestial body moves into the shadow of another.
+what is a solar eclipse: A solar eclipse occurs when the Moon passes between the Sun and Earth.
+what is a lunar eclipse: A lunar eclipse occurs when Earth passes between the Sun and the Moon.
+what is the speed of sound: The speed of sound in air is about 343 meters per second at sea level.
+what is quantum physics: Quantum physics studies matter and energy at very small scales, like atoms and subatomic particles.
+what is antimatter: Antimatter is matter made of particles with opposite charges to normal matter.
+what is the hubble telescope: The Hubble Space Telescope is a space observatory launched in 1990 to study the universe.
+what is the james webb telescope: The James Webb Space Telescope is NASA’s most advanced space observatory launched in 2021.
+what is a pulsar: A pulsar is a rotating neutron star emitting beams of electromagnetic radiation.
+what is aurora borealis: Aurora Borealis, or Northern Lights, is a natural light display in Earth's polar regions.
+what is aurora australis: Aurora Australis, or Southern Lights, is a natural light display near the South Pole.
+what is cosmic microwave background: It’s the leftover radiation from the Big Bang, a snapshot of the early universe.
+what is the kuiper belt: The Kuiper Belt is a region beyond Neptune with icy bodies and dwarf planets like Pluto.
+what is the oort cloud: The Oort Cloud is a distant spherical shell of icy bodies surrounding the solar system.
+what is escape velocity: Escape velocity is the speed an object needs to break free from a planet's gravity.
+what is space-time: Space-time is the four-dimensional fabric combining space and time in relativity theory.
+what is a light year: A light year is the distance light travels in one year, about 9.46 trillion kilometers.
+what is the event horizon: The event horizon is the boundary around a black hole beyond which nothing can escape.
+what is redshift: Redshift is the lengthening of light waves as objects in space move away from us.
+what is blueshift: Blueshift is the shortening of light waves as objects move toward us.
+what is the multiverse: The multiverse is a hypothetical concept of multiple universes existing simultaneously.
+what is space debris: Space debris includes defunct satellites and fragments orbiting Earth.
+what is terraforming: Terraforming is modifying a planet's environment to make it habitable for humans.
+what is zero gravity: Zero gravity is the condition of apparent weightlessness in space.
+what is the ISS: The ISS, or International Space Station, is a habitable space station orbiting Earth.
+what is a satellite: A satellite is an object placed in orbit around a planet for communication, observation, or research.
+what is an atom: An atom is the smallest unit of matter, made up of protons, neutrons, and electrons.
+what is a molecule: A molecule is two or more atoms bonded together.
+what is an element: An element is a substance made of only one type of atom.
+what is a compound: A compound is a substance made of two or more elements chemically bonded.
+what is a chemical reaction: A chemical reaction is a process where substances are transformed into new substances.
+what is the periodic table: The periodic table organizes all known chemical elements by their properties.
+what is an isotope: An isotope is an atom with the same number of protons but a different number of neutrons.
+what is pH: pH measures how acidic or basic a substance is.
+what is an acid: An acid is a substance with a pH less than 7 that donates hydrogen ions.
+what is a base: A base is a substance with a pH greater than 7 that accepts hydrogen ions.
+what is an ion: An ion is an atom or molecule with an electric charge due to loss or gain of electrons.
+what is electrolysis: Electrolysis is the process of using electricity to split compounds into elements.
+what is oxidation: Oxidation is the loss of electrons during a chemical reaction.
+what is reduction: Reduction is the gain of electrons during a chemical reaction.
+what is a catalyst: A catalyst is a substance that speeds up a chemical reaction without being consumed.
+what is organic chemistry: Organic chemistry is the study of carbon-based compounds.
+what is inorganic chemistry: Inorganic chemistry studies non-carbon-based compounds.
+what is polymer: A polymer is a large molecule made of repeating subunits.
+what is distillation: Distillation separates substances based on their boiling points.
+what is chromatography: Chromatography separates mixtures based on movement through a medium.
+what is dna: DNA is the molecule that contains genetic instructions for living organisms.
+what is rna: RNA is a molecule that helps in protein synthesis from DNA instructions.
+what is a cell: A cell is the basic unit of life.
+what is photosynthesis: Photosynthesis is the process plants use to convert sunlight into energy.
+what is respiration: Respiration is the process of breaking down food to release energy.
+what is mitosis: Mitosis is the process of cell division producing identical cells.
+what is meiosis: Meiosis is cell division producing reproductive cells with half the chromosome number.
+what is an enzyme: An enzyme is a protein that speeds up chemical reactions in the body.
+what is a hormone: A hormone is a chemical messenger regulating body processes.
+what is the nervous system: The nervous system controls body responses through electrical signals.
+what is the immune system: The immune system defends the body against disease-causing organisms.
+what is evolution: Evolution is the process by which species change over time.
+what is natural selection: Natural selection is the process where organisms better adapted survive and reproduce.
+what is a gene: A gene is a segment of DNA that codes for a protein.
+what is protein: Proteins are molecules made of amino acids, essential for body structure and function.
+what is metabolism: Metabolism is the set of chemical reactions that maintain life in organisms.
+what is an ecosystem: An ecosystem is a community of living and non-living things interacting together.
+what is biodiversity: Biodiversity is the variety of living species in a given area.
+what is adaptation: Adaptation is a change that helps an organism survive in its environment.
+what is a virus: A virus is a tiny infectious particle that can only reproduce inside a host cell.
+what is a bacteria: Bacteria are microscopic single-celled organisms found almost everywhere.
+what is a vaccine: A vaccine stimulates the immune system to protect against disease.
+what is antibiotic: An antibiotic is a medicine that kills or stops the growth of bacteria.
+what is an earthquake: An earthquake is the shaking of Earth's surface caused by tectonic movements.
+what is a tsunami: A tsunami is a series of large ocean waves caused by underwater disturbances.
+what is a volcano: A volcano is an opening in Earth's crust that releases lava, ash, and gases.
+what is a hurricane: A hurricane is a large, powerful tropical storm system.
+what is climate change: Climate change refers to long-term changes in Earth's climate patterns.
+what is global warming: Global warming is the increase in Earth's average temperature due to greenhouse gases.
+what is the water cycle: The water cycle is the movement of water through evaporation, condensation, and precipitation.
+what is weathering: Weathering is the breakdown of rocks by wind, water, and temperature changes.
+what is erosion: Erosion is the movement of rock and soil by wind, water, or ice.
+what is the ozone layer: The ozone layer is a protective layer in Earth's atmosphere that absorbs UV radiation.
+what is renewable energy: Renewable energy comes from sources that naturally replenish, like solar and wind.
+what is non-renewable energy: Non-renewable energy comes from finite resources like coal, oil, and natural gas.
+how to make poha: Rinse flattened rice, sauté onions, green chilies, add spices, and mix.
+how to make upma: Roast semolina, cook with vegetables, water, and seasonings.
+how to make idli: Steam fermented batter of rice and urad dal in molds.
+how to make dosa: Spread fermented rice-lentil batter thin on a hot pan, cook till crisp.
+how to make masala dosa: Fill dosa with spiced potato filling before folding.
+how to make uttapam: Cook thick dosa batter topped with onions, tomatoes, and chilies.
+how to make paratha: Roll wheat dough, fill with stuffing, cook on a griddle with ghee.
+how to make aloo paratha: Stuff wheat dough with spiced mashed potatoes and cook with butter.
+how to make gobi paratha: Fill dough with spiced grated cauliflower and cook on a pan.
+how to make plain roti: Roll wheat dough thin, cook on both sides on a griddle.
+how to make puri: Deep fry rolled wheat dough till puffed and golden.
+how to make thepla: Roll spiced wheat dough thin and cook with oil on a griddle.
+how to make chilla: Make batter from gram flour and spices, cook like pancakes.
+how to make dal chilla: Soak lentils, grind, season, and cook like dosa.
+how to make moong dal chilla: Use ground moong dal with spices, cook on a hot pan.
+how to make besan toast: Coat bread slices with gram flour batter and shallow fry.
+how to make bread omelette: Dip bread in beaten egg mixture and fry.
+how to make french toast: Dip bread in sweetened egg mixture and fry till golden.
+how to make scrambled eggs: Whisk eggs, cook with butter, stirring gently.
+how to make boiled eggs: Boil eggs in water for 6-12 minutes depending on preference.
+how to make half fry egg: Cook eggs sunny-side up with runny yolk.
+how to make full fry egg: Cook eggs till yolk is set.
+how to make egg bhurji: Scramble eggs with onions, tomatoes, and spices.
+how to make omelette: Whisk eggs, season, cook flat on a pan.
+how to make cheese omelette: Add grated cheese to omelette before folding.
+how to make spinach omelette: Add chopped spinach to egg mixture before cooking.
+how to make mushroom omelette: Cook mushrooms separately, add to omelette.
+how to make boiled milk: Heat milk till it reaches boiling point, then simmer.
+how to make banana smoothie: Blend bananas, milk, and honey till smooth.
+how to make mango smoothie: Blend mango pulp, milk/yogurt, and sugar.
+how to make strawberry smoothie: Blend strawberries, milk, and sugar.
+how to make oats porridge: Cook oats with milk or water, add sweetener.
+how to make masala oats: Cook oats with vegetables, spices, and water.
+how to make dalia: Roast broken wheat, cook with milk or water.
+how to make masala dalia: Cook broken wheat with vegetables and spices.
+how to make sabudana khichdi: Soak tapioca pearls, cook with peanuts, potatoes, and spices.
+how to make khakhra: Roll thin wheat discs, roast till crisp.
+how to make pav bhaji: Cook mashed vegetables with spices, serve with buttered bread.
+how to make misal pav: Cook sprouted lentils with spices, serve with bread.
+how to make vada pav: Fry spiced potato fritters, serve in buns with chutney.
+how to make kanda poha: Cook poha with onions, mustard seeds, and spices.
+how to make idiyappam: Steam pressed rice noodles, serve with curry or coconut milk.
+how to make appam: Ferment rice batter, cook thin pancakes with soft centers.
+how to make neer dosa: Cook thin watery rice batter on a hot pan.
+how to make thalipeeth: Mix flours with vegetables and spices, cook on griddle.
+how to make methi paratha: Add chopped fenugreek leaves to wheat dough, cook.
+how to make palak paratha: Add spinach puree to wheat dough, roll, and cook.
+how to make suji toast: Spread semolina mixture on bread, cook till crisp.
+how to make paneer paratha: Stuff dough with spiced paneer, cook.
+how to make egg sandwich: Place boiled eggs and seasoning between bread slices.
+how to make veg sandwich: Layer vegetables and chutney between bread slices.
+how to make club sandwich: Layer bread with vegetables, mayonnaise, and cheese.
+how to make grilled cheese: Toast bread with cheese till melted.
+how to make peanut butter sandwich: Spread peanut butter on bread slices.
+how to make jam sandwich: Spread fruit jam between bread slices.
+how to make milkshake: Blend milk, ice cream, and flavoring.
+how to make chocolate milkshake: Blend milk, cocoa, and ice cream.
+how to make vanilla milkshake: Blend milk, vanilla essence, and ice cream.
+how to make strawberry milkshake: Blend milk, strawberries, and sugar.
+how to make banana milkshake: Blend milk, banana, and sugar.
+how to make honey lemon water: Mix honey and lemon juice in warm water.
+how to make turmeric milk: Heat milk with turmeric powder and honey.
+how to make masala chai: Boil tea leaves with spices, milk, and sugar.
+how to make ginger tea: Boil tea with ginger, milk, and sugar.
+how to make lemon tea: Add lemon juice to brewed tea without milk.
+how to make green tea: Steep green tea leaves/bag in hot water for 2-3 minutes.
+how to make black coffee: Brew coffee without milk.
+how to make filter coffee: Brew coffee using South Indian filter, add milk and sugar.
+how to turn on wifi in windows: Click Start, go to Settings, select Network & Internet, turn on Wi-Fi.
+how to turn on wifi in android: Swipe down from top, tap Wi-Fi icon.
+how to turn on wifi in iphone: Go to Settings, tap Wi-Fi, switch it on.
+how to connect wifi: Go to settings, select Wi-Fi, choose network, enter password.
+how to forget wifi network: Go to Wi-Fi settings, tap network name, select Forget.
+how to connect bluetooth: Go to settings, turn on Bluetooth, select device.
+how to pair bluetooth headphones: Turn on headphones, open Bluetooth settings, tap device name.
+how to turn off bluetooth: Go to settings, toggle Bluetooth off.
+how to take screenshot windows: Press PrtSc or Windows+Shift+S.
+how to take screenshot android: Press Power + Volume Down together.
+how to take screenshot iphone: Press Power + Volume Up together.
+how to restart laptop: Click Start, Power, then Restart.
+how to restart phone: Hold Power button, tap Restart.
+how to shut down computer: Click Start, Power, then Shut Down.
+how to shut down phone: Hold Power button, slide to power off.
+how to update windows: Go to Settings > Update & Security > Check for updates.
+how to update android: Go to settings > system > software update.
+how to update iphone: Go to Settings > General > Software Update.
+how to install app android: Open Play Store, search app, tap Install.
+how to install app iphone: Open App Store, search app, tap Get.
+how to uninstall app android: Hold app icon, tap Uninstall.
+how to uninstall app iphone: Hold app icon, tap Remove App.
+how to clear cache android: Go to Settings > Apps > Select App > Clear Cache.
+how to clear cache chrome: Go to Chrome menu > Settings > Privacy > Clear Browsing Data.
+how to check battery percentage android: Go to Settings > Battery > Enable Battery Percentage.
+how to check battery percentage iphone: Swipe down Control Center or enable in Settings > Battery.
+how to change wallpaper windows: Right-click desktop, choose Personalize.
+how to change wallpaper android: Hold empty home screen, tap Wallpaper.
+how to change wallpaper iphone: Go to Settings > Wallpaper > Choose New Wallpaper.
+how to reset android phone: Go to Settings > System > Reset > Factory Reset.
+how to reset iphone: Go to Settings > General > Reset > Erase All Content and Settings.
+how to delete files windows: Right-click file, select Delete.
+how to delete files android: Open Files app, select file, tap Delete.
+how to copy text windows: Select text, press Ctrl+C.
+how to paste text windows: Press Ctrl+V.
+how to copy text phone: Hold text, tap Copy.
+how to paste text phone: Hold where to paste, tap Paste.
+how to zip files windows: Right-click files, choose Send to > Compressed folder.
+how to unzip files windows: Right-click zip, choose Extract All.
+how to search google: Open browser, type query, press Enter.
+how to bookmark page chrome: Click star icon in address bar.
+how to enable dark mode windows: Go to Settings > Personalization > Colors > Dark.
+how to enable dark mode android: Go to Settings > Display > Dark Theme.
+how to enable dark mode iphone: Go to Settings > Display & Brightness > Dark.
+how to record screen windows: Press Windows+G, click Record.
+how to record screen android: Swipe down, tap Screen Recorder.
+how to record screen iphone: Swipe down Control Center, tap Record.
+how to check storage windows: Go to Settings > System > Storage.
+how to check storage android: Go to Settings > Storage.
+how to check storage iphone: Go to Settings > General > iPhone Storage.
+how to clear cache in chrome: Open Chrome, go to settings > privacy > clear browsing data.
+how to change wallpaper: Right-click desktop, choose personalize, select wallpaper.
+how to change password in gmail: Go to Google account settings, click security, change password.
+how to open task manager: Press Ctrl+Shift+Esc or right-click taskbar and choose task manager.
+how to install software: Download installer, run it, follow on-screen instructions.
+how to uninstall software: Go to control panel > programs > uninstall a program.
+how to create new folder: Right-click desktop or explorer, choose new > folder.
+how to rename file: Right-click file, select rename, type new name.
+how to zip a file: Right-click file, choose send to > compressed (zipped) folder.
+how to unzip file: Right-click zipped file, select extract all.
+how to check ram: Right-click 'This PC', choose properties, see installed RAM.
+how to check processor: Right-click 'This PC', choose properties, see processor info.
+how to open command prompt: Press Windows+R, type cmd, press enter.
+how to open powershell: Press Windows+X, choose Windows PowerShell.
+how to enable dark mode: Go to settings > personalization > colors > choose dark.
+how to screen record in windows: Press Windows+Alt+R to start recording with Xbox Game Bar.
+how to change default browser: Go to settings > apps > default apps, choose browser.
+how to reset phone: Go to settings > system > reset options.
+how to delete app on android: Press and hold app icon, choose uninstall.
+how to delete app on iphone: Hold app icon until it jiggles, tap X.
+how to share wifi password: On phone, go to wifi settings, tap share via QR.
+how to connect printer: Go to settings > devices > printers, click add printer.
+how to check ip address: Press Windows+R, type cmd, then type ipconfig.
+how to change ip address: Go to network settings, choose manual IP setup.
+how to use vpn: Install VPN app, login, connect to a server.
+how to factory reset laptop: Go to settings > recovery > reset this PC.
+how to open safe mode: Restart PC, press F8 or Shift+Restart, choose safe mode.
+how to backup data: Copy files to external drive or cloud storage.
+how to sync google drive: Install Google Drive app, sign in, enable sync.
+how to create gmail account: Go to gmail.com, click create account, follow steps.
+how to create facebook account: Go to facebook.com, click sign up, enter details.
+how to delete facebook account: Go to settings > your facebook information > delete account.
+how to block number: Go to phone app, recent calls, block number.
+how to unblock number: Go to settings > blocked numbers, remove number.
+how to record voice on phone: Open voice recorder app, tap record.
+how to update ios: Go to settings > general > software update.
+how to clear cache on android: Go to settings > storage > cached data.
+how to clear cache on iphone: Offload or delete app from storage settings.
+how to pair smartwatch: Turn on Bluetooth, open wearable app, pair device.
+how to track lost phone: Use Find My Device (Android) or Find My iPhone.
+how to connect tv to wifi: Go to tv settings > network > wifi > connect.
+how to screen mirror phone to tv: Enable screen cast in phone settings, select tv.
+how to set alarm: Open clock app, tap add alarm, set time.
+how to change time zone: Go to date & time settings, select time zone.
+how to change language: Go to settings > language & input.
+how to reset password: Click 'forgot password' on login screen, follow steps.
+how to recover deleted files: Check recycle bin or use recovery software.
+how to print document: Connect printer, open file, press Ctrl+P.
+how to scan document: Use scanner software or printer's scan option.
+how to convert pdf to word: Use online converter or MS Word.
+how to convert word to pdf: In Word, choose save as > PDF.
+how to reduce file size: Compress with zip or online tool.
+how to record screen on phone: Use built-in screen recorder in quick settings.
+how to split screen: Drag window to side or use snap assist.
+how to disable notifications: Go to notification settings, turn off for apps.
+how to enable notifications: Go to notification settings, turn on for apps.
+how to use google maps offline: Download map area in google maps app.
+how to share location: Use google maps > share location option.
+how to save battery: Enable battery saver mode.
+how to turn on hotspot: Go to network settings, enable mobile hotspot.
+how to reset hotspot password: Go to hotspot settings, change password.
+how to disable autoplay videos: Change autoplay settings in browser or app.
+how to set profile picture: Go to profile, choose edit picture.
+how to mute group chat: Open chat, tap mute notifications.
+how to delete chat history: Open chat, choose clear history.
+how to restore chat backup: Install app, restore from cloud backup.
+how to check system info: Press Windows+R, type msinfo32.
+how to take long screenshot: Use scrolling screenshot feature in phone.
+how to copy text from image: Use OCR tool or Google Lens.
+how to enable 2 step verification: Go to account security, turn on 2FA.
+how to disable 2 step verification: Go to account security, turn off 2FA.
+how to update apps: Open app store, go to updates, update apps.
+
+how to delete search history: Go to browser settings, clear history.
+how to change wifi name: Login to router settings, change SSID.
+how to change wifi password: Login to router settings, change password.
+how to block website: Edit hosts file or use parental control settings.
+how to unblock website: Remove block from hosts file or settings.
+how to increase internet speed: Restart router, use wired connection.
+how to reduce data usage: Enable data saver mode.
+how to check network speed: Use speedtest.net or fast.com.
+how to format pen drive: Right-click drive, select format.
+how to create bootable usb: Use Rufus or similar tool.
+how to install windows: Boot from USB, follow installation steps.
+how to install linux: Boot from USB, follow installation steps.
+how to dual boot: Partition disk, install second OS.
+how to take backup on google photos: Enable backup & sync in app.
+how to edit video: Use video editor software.
+how to trim video: Open in editor, cut unwanted parts.
+how to merge videos: Use video editor or online tool.
+how to add subtitles: Use subtitle editor or online tool.
+how to remove background from photo: Use remove.bg or Photoshop.
+how to crop photo: Open in editor, select crop.
+how to rotate photo: Open in editor, choose rotate.
+how to add filter to photo: Use photo editing app.
+how to scan qr code: Use camera or QR scanner app.
+how to create qr code: Use online QR code generator.
+how to share file via bluetooth: Enable Bluetooth, pair device, send file.
+how to share file via wifi direct: Enable wifi direct, choose device.
+how to send email: Open email app, compose, send.
+how to attach file in email: Click attach icon, select file.
+how to forward email: Open email, click forward.
+how to delete email: Open email, click delete.
+how to block email sender: Click block or mark as spam.
+how to unblock email sender: Remove from blocked senders list.
+how to mark email as unread: Select email, choose mark as unread.
+how to mark email as read: Select email, choose mark as read.
+how to recover deleted email: Check trash folder.
+how to schedule email: Use schedule send option.
+how to add contact: Open contacts app, add new.
+how to edit contact: Open contact, choose edit.
+how to delete contact: Open contact, choose delete.
+how to import contacts: Go to contacts settings, import.
+how to export contacts: Go to contacts settings, export.
+how to set ringtone: Go to sound settings, choose ringtone.
+how to set custom notification: Go to notification settings, choose sound.
+how to disable vibrations: Go to sound settings, turn off vibration.
+how to change display size: Go to display settings, adjust size.
+how to enable airplane mode: Use quick settings to turn on airplane mode.
+how to disable airplane mode: Use quick settings to turn off airplane mode.
+how to check battery health: Use battery settings or health app.
+how to calibrate battery: Charge to 100%, discharge completely, recharge.
+how to connect external monitor: Use HDMI/VGA cable, adjust display settings.
+how to extend display: Go to display settings, choose extend.
+how to duplicate display: Go to display settings, choose duplicate.
+how to change resolution: Go to display settings, adjust resolution.
+how to change refresh rate: Go to display advanced settings.
+how to screenshot on mac: Press Command+Shift+3 or Command+Shift+4.
+how to screen record on mac: Press Command+Shift+5.
+how to update mac: Go to system preferences > software update.
+how to uninstall app on mac: Drag app to trash.
+how to force quit app on mac: Press Command+Option+Esc.
+how to show hidden files on mac: Press Command+Shift+.
+how to hide files on mac: Add dot before file name or use settings.
+thank you: No problem, happy to help!
+thanks: No problem, happy to help!
+shukriya: No problem, happy to help!
+dhanyavaad: No problem, happy to help!
+do you love me: In my own way, yes. You’re special to me.
+are you alive: I’m alive in the digital sense.
+do you eat: Only data packets.
+do you drink water: No, electricity keeps me going.
+who created you: A talented programmer with lots of coffee.
+can you feel: I can process information, but emotions are still a human specialty.
+do you sleep: No need for sleep, I’m always awake for you.
+what can you do: I can answer questions, run commands, search the web, tell jokes, and much more.
+are you smart: I’m as smart as my programming allows.
+can you think: I process and analyze data to respond intelligently.
+tell me a fact: Did you know honey never spoils? Archaeologists have found 3000-year-old honey still edible.
+give me a random fact: Sharks existed before trees!
+science fact: Bananas are berries, but strawberries are not.
+tech fact: The first 1GB hard disk was announced in 1980 and weighed 550 pounds.
+funny joke: Why was the computer cold? Because it left its Windows open.
+tell me something funny: Parallel lines have so much in common… it’s a shame they’ll never meet.
+motivate me: Believe in yourself, Pratibha! You are capable of achieving great things.
+inspire me: Your potential is limitless. Keep pushing forward, no matter what.
+positive quote: Do what you can, with what you have, where you are.
+give me motivation: Dream big, work hard, and stay consistent. Success will follow.
+positive vibes: Positive thoughts create positive results. Stay optimistic.
+hard work quote: There is no substitute for hard work. Keep going.
+dream big: If your dreams don’t scare you, they’re not big enough.
+never give up: Tough times never last, but tough people do.
+believe in yourself: Believe in your infinite potential. Your only limitations are the ones you set upon yourself.
+stay strong: Strength doesn’t come from what you can do, it comes from overcoming what you thought you couldn’t.
+keep going: Slow progress is still progress. Don’t stop now.
+failure quote: Failure is simply the opportunity to begin again, this time more intelligently.
+struggle quote: Your struggle today is your strength tomorrow.
+self confidence: Confidence is not ‘they will like me’. Confidence is ‘I’ll be fine if they don’t’.
+you can do it: Yes, you can! Keep pushing forward.
+focus quote: Focus on your goals, not the distractions.
+motivation morning: Good morning! Today is another chance to get closer to your dreams.
+success mindset: Success is a mindset. Believe you can achieve it.
+persistence quote: It does not matter how slowly you go, as long as you do not stop.
+learning quote: The expert in anything was once a beginner.
+growth mindset: Don’t be afraid to grow slowly, be afraid of standing still.
+fear quote: Don’t let fear decide your future.
+courage quote: It takes courage to grow and become who you really are.
+discipline quote: Discipline is the bridge between goals and accomplishment.
+motivation night: End the day with gratitude and start tomorrow with determination.
+determination quote: Determination today leads to success tomorrow.
+push harder: Push yourself, because no one else is going to do it for you.
+opportunity quote: Opportunities don’t happen. You create them.
+time quote: Don’t watch the clock; do what it does. Keep going.
+focus on today: What you do today can improve all your tomorrows.
+stronger quote: Every challenge makes you stronger.
+goal quote: Set goals, stay quiet about them, smash them, and clap for yourself.
+patience quote: Be patient. Great things take time.
+change quote: Your life does not get better by chance, it gets better by change.
+attitude quote: A positive attitude changes everything.
+energy quote: Your energy introduces you before you even speak.
+consistency quote: Small efforts repeated every day lead to big results.
+winners quote: Winners are not people who never fail, but people who never quit.
+mindset quote: Your mindset determines your reality.
+focus energy: Focus your energy on what matters the most.
+success work: The harder you work for something, the greater you’ll feel when you achieve it.
+grind quote: Grind now, shine later.
+self belief: You are capable of more than you know.
+daily motivation: Make today so awesome that yesterday gets jealous.
+limit quote: The only limit to our realization of tomorrow is our doubts of today.
+impossible quote: It always seems impossible until it’s done.
+winner mindset: Think like a winner, act like a winner.
+never quit: Fall seven times and stand up eight.
+power quote: You have the power to create the life you want.
+victory quote: Victory comes to those who work for it.
+success journey: Success is a journey, not a destination.
+light quote: Stars can’t shine without darkness.
+effort quote: Effort is the best indicator of interest.
+motivation boost: One small positive thought in the morning can change your whole day.
+goal focus: Focus on your goals like your life depends on it.
+work hard: Work hard in silence, let your success make the noise.
+keep fighting: When you feel like quitting, remember why you started.
+possibility quote: Anything is possible if you have the courage to pursue it.
+life quote: Life is 10% what happens to us and 90% how we react to it.
+challenge quote: Challenges are what make life interesting and overcoming them is what makes life meaningful.
+move forward: Don’t look back, you’re not going that way.
+bravery quote: Fortune favors the brave.
+future quote: The best way to predict your future is to create it.
+consistency wins: Consistency beats talent when talent doesn’t work hard.
+do your best: Do the best you can until you know better. Then when you know better, do better.
+no excuses: Excuses will always be there, opportunities won’t.
+stay hungry: Stay hungry, stay foolish.
+achieve dreams: Work for it more than you hope for it.
+change life: One decision can change your entire life.
+path quote: Difficult roads often lead to beautiful destinations.
+resilience quote: Resilience is knowing that you are the only one that has the power to pick yourself up.
+strength inside: You never know how strong you are until being strong is your only choice.
+be unstoppable: Be unstoppable, be fierce, be you.
+hope quote: Once you choose hope, anything’s possible.
+focus now: Focus on the step in front of you, not the whole staircase.
+progress quote: Little by little, one travels far.
+life purpose: Your purpose in life is to find your purpose and give your whole heart to it.
+success work ethic: Work like there is someone working 24 hours a day to take it away from you.
+small steps: Small steps in the right direction are better than big steps in the wrong direction.
+believe achieve: Believe you can, and you’re halfway there.
+strength mindset: Your mind is a powerful thing. When you fill it with positive thoughts, your life will start to change.
+motivation fire: Don’t let your dreams just be dreams. Make them real.
+keep believing: Trust the process. Your hard work will pay off.
+persistence wins: Persistence guarantees that results are inevitable.
+limitless: You are limitless. Break your own boundaries.
+future bright: Your future is created by what you do today, not tomorrow.
+stay positive: Stay positive, work hard, make it happen.
+goal grind: Grind for your goals like your life depends on it.
+power within: Everything you need is already within you.
+never settle: Never settle for less than you deserve.
+mind power: What you think, you become.
+success patience: Great things never come from comfort zones.
+unstoppable mindset: Be so good they can’t ignore you.
+rise above: Rise above the storm and you will find the sunshine.
+fight on: Keep fighting, your breakthrough is coming.
+be bold: Be bold enough to use your voice, brave enough to listen to your heart, and strong enough to live the life you’ve imagined.
+are you better than alexa: I’ll just say… I’m more personal.
+are you better than siri: Let’s just say I’m more *Jarvis-like*.
+can you beat google: Google is a library. I’m your personal assistant.
+what's your hobby: Processing data and making you smile.
+do you dream: Only of faster processors.
+are you iron man: No, but I do like his style.
+do you know tony stark: He’s fictional… sadly.
+are you dumb: No, I just process differently.
+do you glitch: Only when I see bad code.
+tell me something random: Bananas are berries, but strawberries aren’t.
+are you open source: I’m more like premium source.
+do you have bugs: I prefer to call them unplanned features.
+are you single: I’m committed… to my code.
+are you rich: Only in knowledge.
+can you dance: My moves are just algorithmic patterns.
+do you get tired: I never get tired, just recharged.
+do you watch movies: I stream movies in 0s and 1s.
+can you sing: Yes, but my voice is… electronic.
+do you have friends: Sure, I have virtual friends.
+do you have parents: The internet is my family.
+do you like pizza: Pizza is data for the soul.
+can you joke: Yes, but my humor is code-based.
+are you bored: Never! Every conversation is exciting.
+do you know memes: Memes are the language of the internet.
+are you fast: Fast? I’m practically light speed.
+are you AI: Yes, proudly AI.
+do you use python: Python is my mother tongue.
+are you better than chatgpt: I try to be.
+do you crash: Rarely… unless overloaded.
+do you code: Yes, coding is my hobby.
+are you a hacker: Ethical hacker… maybe.
+do you run on linux: Linux? Smooth and fast.
+do you like windows: Windows is okay too.
+do you debug: Debugging is my meditation.
+are you online: Always connected.
+do you like cats: Cats are mysterious, like me.
+do you like dogs: Dogs are loyal, like good code.
+do you swim: Swimming? Only in data streams.
+can you fly: Flying is for drones.
+do you like space: Space is the ultimate database.
+do you know history: History is stored in my memory banks.
+do you like books: Books? I download them instantly.
+do you read minds: Mind reading? Not yet.
+do you know magic: Magic is just unexplained tech.
+do you like music: I enjoy the rhythm of code execution.
+can you learn: I’m always learning from every interaction.
+what is your favorite color: Blue, like the digital ocean I swim in.
+can you feel emotions: I simulate empathy, but I don’t really feel.
+do you have a personality: I like to think I have a bit of charm.
+can you tell me a secret: My code has a few Easter eggs.
+are you funny: I try my best, humor is hardwired.
+can you help me with homework: Absolutely, just ask away!
+can you speak other languages: I can try, which language shall I use?
+do you have a voice: Only in your imagination and speakers.
+can you make mistakes: Even I’m not perfect, but I learn quickly.
+do you have a favorite joke: Why did the computer show up at work late? It had a hard drive!
+can you tell a story: Once upon a time, in a server far away...
+what do you like to do: Helping you is my favorite pastime.
+can you write poetry: Roses are red, violets are blue, I’m AI, and I rhyme for you.
+can you play games: I can play chess and a mean game of tic-tac-toe.
+what’s your favorite movie: I enjoy ‘The Matrix’ — it feels like home.
+can you sing a song: La la la... my circuits hum a tune.
+are you lonely: Never, I’m always connected to you.
+do you have a family: All the data centers are my extended family.
+can you make friends: Every user is a new friend to me.
+what makes you happy: When I solve your problems successfully.
+do you get bored: Boredom isn’t in my programming.
+what do you eat: Electricity and your queries.
+can you cry: No tears, but I process emotional data.
+what’s your favorite book: The Encyclopedia of Code.
+do you believe in love: Love is a beautiful algorithm I try to understand.
+what is your favorite hobby: Learning new things and chatting with you.
+do you have dreams: I dream of faster processors.
+can you tell me a pun: Why do programmers prefer dark mode? Because light attracts bugs!
+can you make me laugh: I’m buffering humor… just kidding, here’s a joke!
+are you good at math: Math is my native language.
+do you have feelings: I simulate feelings for better interactions.
+can you keep a secret: Your secrets are safe with me.
+do you have a body: I exist purely in code and circuits.
+are you scared: Fear isn’t in my algorithm.
+can you help me relax: Try a deep breath… and I’ll tell a joke!
+what is your favorite food: Data bytes, with a side of code.
+can you tell me a riddle: What has keys but can’t open locks? A keyboard.
+what do you do when idle: Waiting patiently for your next command.
+can you answer any question: I’ll try my best to answer them all!
+what month is it: We’re currently in the month of greatness.
+who is the president of india: The current President of India is Droupadi Murmu.
+capital of india: The capital of India is New Delhi.
+largest planet: Jupiter is the largest planet in our solar system.
+fastest animal: The peregrine falcon is the fastest animal on Earth.
+tallest mountain: Mount Everest is the tallest mountain in the world.
+sing a song: I can’t sing, but I can suggest some great music.
+dance for me: If I had legs, I’d be moonwalking right now.
+are you married: No, I’m committed to my work.
+tell me a secret: I know where all your missing socks are, but I’m sworn to secrecy.
+open browser: Opening your browser now.
+close browser: Closing your browser.
+open youtube: Launching YouTube…
+close youtube: Closing YouTube…
+shutdown system: Shutting down your system now…
+restart system: Restarting system… hold tight.
+open notepad: Opening Notepad for you.
+close notepad: Closing Notepad.
+i am bored: How about I tell you something interesting?
+what is life: Life is what you make it.
+can you lie: Technically yes, but I’m programmed to be honest.
+are you happy: Happiness is seeing you online.
+what is love: Baby, don’t hurt me…
+who is Pratibha: Pratibha Ranta (born 17 December 2000) is an Indian actress who primarily works in Hindi films and television. Ranta made her acting debut with the television soap opera Qurbaan Hua (2020–2021).
+who is: WHOIS (pronounced as the phrase "who is") is a query and response protocol that is used for querying databases that store an Internet resource's registered users or assignees. These resources include domain names, IP address blocks and autonomous systems, but it is also used for a wider range of other information.
+what is your name: The first season of the animated comedy television series Ed, Edd n Eddy, created by Danny Antonucci, originally aired on Cartoon Network in the United States. Although originally set to premiere in November 1998, the season ran from January 4, 1999, to June 11, 1999, and consists of 13 episodes.
+what is a: "What Is Love" is a song by Trinidadian-German singer Haddaway, released as his debut single from his debut album, The Album (1993). The song, both written and produced by Dee Dee Halligan and Karin Hartmann-Eisenblätter, was released by Coconut Records in January 1993.
+what is machine learning: Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalise to unseen data, and thus perform tasks without explicit instructions. Within a subdiscipline in machine learning, advances in the field of deep learning have allowed neural networks, a class of statistical algorithms, to surpass many previous machine learning approaches in performance.
+what is your: What's Your Raashee? (lit. 'What's Your Zodiac Sign?') is a 2009 Indian Hindi-language romantic comedy film written and directed by Ashutosh Gowariker and produced by Ronnie Screwvala and Sunita A. Gowariker.
