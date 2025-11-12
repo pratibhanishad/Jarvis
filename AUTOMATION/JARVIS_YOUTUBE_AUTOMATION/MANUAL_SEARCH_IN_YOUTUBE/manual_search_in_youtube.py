@@ -16,3 +16,4 @@ def search_manual(text):
     ui.press("enter")
     s12 = random.choice(s2)
     speak(s12)
+

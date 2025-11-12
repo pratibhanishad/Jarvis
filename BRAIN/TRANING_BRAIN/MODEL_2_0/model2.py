@@ -5,7 +5,7 @@ from sklearn.naive_bayes import MultinomialNB
 
 
 # Load the JSON data
-with open(r'/DATA/BRAIN_DATA/QNA_DATA/qna.txt') as file:
+with open(r'C:\Users\PRATI\Desktop\JARVIS4.1\DATA\BRAIN_DATA\QNA_DATA\qna.json') as file:
     data = json.load(file)
 
 
@@ -50,5 +50,3 @@ def get_response(user_input):
                 return random.choice(responses)
             else:
                 return "I'm sorry, I don't have a response for that."
-
-

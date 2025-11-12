@@ -11,6 +11,6 @@ def play_music_on_youtube(text):
     kt.playonyt(text)
     time.sleep(3)
     playdlg= random.choice(playing_dlg)
-    speak(playdlg+ text)
+    speak(playdlg + text)
 
 

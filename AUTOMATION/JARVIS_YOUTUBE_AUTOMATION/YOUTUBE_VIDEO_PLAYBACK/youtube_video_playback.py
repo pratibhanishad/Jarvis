@@ -1,8 +1,6 @@
 import pyautogui
 import time
 
-def play_pause():
-    pyautogui.press("space")
 
 def volume_up():
     pyautogui.press("up")

@@ -30,8 +30,8 @@ class JarvisUI(QWidget):
         self.mic_label = QLabel(self)
         self.add_gif_to_label(
             self.mic_label,
-            r"C:\Users\PRATI\Desktop\JARVIS4.1\USER_INTERFACE\d90957d7462b87ba8171fce62d2bf816.gif",
-            size=(720, 220),
+            r"C:\Users\PRATI\Desktop\JARVIS4.1\USER_INTERFACE\J_A_R_V_I_S_live_wallpaper.mp4",
+            size=(720,220),
             alignment=Qt.AlignCenter
         )
         self.mic_label.setAlignment(Qt.AlignCenter)
@@ -90,8 +90,9 @@ class JarvisUI(QWidget):
             output, _ = self.process.communicate()
             self.handle_output(output)
 
-        except Exception as e:
-            print("Error:", e)
+            self.is_listening=False
+        except subprocess.CalledProcessError as e:
+            print(f"Error:,{str(e)}")
 
     def handle_output(self, output):   # 👈 yaha class ke andar hona chahiye
         if output.strip():

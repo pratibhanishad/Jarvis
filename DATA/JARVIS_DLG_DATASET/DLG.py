@@ -600,7 +600,7 @@ sorry_open= [
 ]
 websites = {
     "google": "https://www.google.com",
-    "youtube": "https://www.youtube.com",
+    "youtube": "https://www.youtube.com/",
     "facebook": "https://www.facebook.com",
     "chatgpt": "https://chat.openai.com",
     "instagram": "https://www.instagram.com",

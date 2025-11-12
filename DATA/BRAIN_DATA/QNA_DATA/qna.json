@@ -1,0 +1,3007 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "Good morning",
+        "Good evening",
+        "What's up",
+        "How are you",
+        "Hey Jarvis",
+        "Greetings",
+        "Hi there"
+      ],
+      "responses": [
+        "Hello! How can I assist you today?",
+        "Hi there! What's on your mind?",
+        "Greetings! What can I do for you?",
+        "Hey! How's your day going?",
+        "Hello! Ready to help you anytime."
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "Goodbye",
+        "See you later",
+        "Take care",
+        "Catch you later",
+        "See ya",
+        "Bye Jarvis",
+        "Later",
+        "Good night",
+        "Farewell"
+      ],
+      "responses": [
+        "Goodbye! Have a great day!",
+        "See you soon!",
+        "Bye! Stay safe.",
+        "Take care! Talk to you later."
+      ]
+    },
+    {
+      "tag": "command_1",
+      "patterns": [
+        "Run task 1",
+        "Execute operation 1",
+        "Perform action 1",
+        "Start process 1",
+        "Launch task 1",
+        "Activate feature 1",
+        "Jarvis do job 1",
+        "Trigger command 1",
+        "Begin task 1",
+        "Initialize function 1"
+      ],
+      "responses": [
+        "Executing task 1 now.",
+        "Task 1 has been started successfully.",
+        "Operation 1 is underway.",
+        "Running process 1...",
+        "Feature 1 is now active."
+      ]
+    },
+    {
+      "tag": "command_2",
+      "patterns": [
+        "Run task 2",
+        "Execute operation 2",
+        "Perform action 2",
+        "Start process 2",
+        "Launch task 2",
+        "Activate feature 2",
+        "Jarvis do job 2",
+        "Trigger command 2",
+        "Begin task 2",
+        "Initialize function 2"
+      ],
+      "responses": [
+        "Executing task 2 now.",
+        "Task 2 has been started successfully.",
+        "Operation 2 is underway.",
+        "Running process 2...",
+        "Feature 2 is now active."
+      ]
+    },
+    {
+      "tag": "command_3",
+      "patterns": [
+        "Run task 3",
+        "Execute operation 3",
+        "Perform action 3",
+        "Start process 3",
+        "Launch task 3",
+        "Activate feature 3",
+        "Jarvis do job 3",
+        "Trigger command 3",
+        "Begin task 3",
+        "Initialize function 3"
+      ],
+      "responses": [
+        "Executing task 3 now.",
+        "Task 3 has been started successfully.",
+        "Operation 3 is underway.",
+        "Running process 3...",
+        "Feature 3 is now active."
+      ]
+    },
+    {
+      "tag": "command_4",
+      "patterns": [
+        "Run task 4",
+        "Execute operation 4",
+        "Perform action 4",
+        "Start process 4",
+        "Launch task 4",
+        "Activate feature 4",
+        "Jarvis do job 4",
+        "Trigger command 4",
+        "Begin task 4",
+        "Initialize function 4"
+      ],
+      "responses": [
+        "Executing task 4 now.",
+        "Task 4 has been started successfully.",
+        "Operation 4 is underway.",
+        "Running process 4...",
+        "Feature 4 is now active."
+      ]
+    },
+    {
+      "tag": "command_5",
+      "patterns": [
+        "Run task 5",
+        "Execute operation 5",
+        "Perform action 5",
+        "Start process 5",
+        "Launch task 5",
+        "Activate feature 5",
+        "Jarvis do job 5",
+        "Trigger command 5",
+        "Begin task 5",
+        "Initialize function 5"
+      ],
+      "responses": [
+        "Executing task 5 now.",
+        "Task 5 has been started successfully.",
+        "Operation 5 is underway.",
+        "Running process 5...",
+        "Feature 5 is now active."
+      ]
+    },
+    {
+      "tag": "command_6",
+      "patterns": [
+        "Run task 6",
+        "Execute operation 6",
+        "Perform action 6",
+        "Start process 6",
+        "Launch task 6",
+        "Activate feature 6",
+        "Jarvis do job 6",
+        "Trigger command 6",
+        "Begin task 6",
+        "Initialize function 6"
+      ],
+      "responses": [
+        "Executing task 6 now.",
+        "Task 6 has been started successfully.",
+        "Operation 6 is underway.",
+        "Running process 6...",
+        "Feature 6 is now active."
+      ]
+    },
+    {
+      "tag": "command_7",
+      "patterns": [
+        "Run task 7",
+        "Execute operation 7",
+        "Perform action 7",
+        "Start process 7",
+        "Launch task 7",
+        "Activate feature 7",
+        "Jarvis do job 7",
+        "Trigger command 7",
+        "Begin task 7",
+        "Initialize function 7"
+      ],
+      "responses": [
+        "Executing task 7 now.",
+        "Task 7 has been started successfully.",
+        "Operation 7 is underway.",
+        "Running process 7...",
+        "Feature 7 is now active."
+      ]
+    },
+    {
+      "tag": "command_8",
+      "patterns": [
+        "Run task 8",
+        "Execute operation 8",
+        "Perform action 8",
+        "Start process 8",
+        "Launch task 8",
+        "Activate feature 8",
+        "Jarvis do job 8",
+        "Trigger command 8",
+        "Begin task 8",
+        "Initialize function 8"
+      ],
+      "responses": [
+        "Executing task 8 now.",
+        "Task 8 has been started successfully.",
+        "Operation 8 is underway.",
+        "Running process 8...",
+        "Feature 8 is now active."
+      ]
+    },
+    {
+      "tag": "command_9",
+      "patterns": [
+        "Run task 9",
+        "Execute operation 9",
+        "Perform action 9",
+        "Start process 9",
+        "Launch task 9",
+        "Activate feature 9",
+        "Jarvis do job 9",
+        "Trigger command 9",
+        "Begin task 9",
+        "Initialize function 9"
+      ],
+      "responses": [
+        "Executing task 9 now.",
+        "Task 9 has been started successfully.",
+        "Operation 9 is underway.",
+        "Running process 9...",
+        "Feature 9 is now active."
+      ]
+    },
+    {
+      "tag": "command_10",
+      "patterns": [
+        "Run task 10",
+        "Execute operation 10",
+        "Perform action 10",
+        "Start process 10",
+        "Launch task 10",
+        "Activate feature 10",
+        "Jarvis do job 10",
+        "Trigger command 10",
+        "Begin task 10",
+        "Initialize function 10"
+      ],
+      "responses": [
+        "Executing task 10 now.",
+        "Task 10 has been started successfully.",
+        "Operation 10 is underway.",
+        "Running process 10...",
+        "Feature 10 is now active."
+      ]
+    },
+    {
+      "tag": "command_11",
+      "patterns": [
+        "Run task 11",
+        "Execute operation 11",
+        "Perform action 11",
+        "Start process 11",
+        "Launch task 11",
+        "Activate feature 11",
+        "Jarvis do job 11",
+        "Trigger command 11",
+        "Begin task 11",
+        "Initialize function 11"
+      ],
+      "responses": [
+        "Executing task 11 now.",
+        "Task 11 has been started successfully.",
+        "Operation 11 is underway.",
+        "Running process 11...",
+        "Feature 11 is now active."
+      ]
+    },
+    {
+      "tag": "command_12",
+      "patterns": [
+        "Run task 12",
+        "Execute operation 12",
+        "Perform action 12",
+        "Start process 12",
+        "Launch task 12",
+        "Activate feature 12",
+        "Jarvis do job 12",
+        "Trigger command 12",
+        "Begin task 12",
+        "Initialize function 12"
+      ],
+      "responses": [
+        "Executing task 12 now.",
+        "Task 12 has been started successfully.",
+        "Operation 12 is underway.",
+        "Running process 12...",
+        "Feature 12 is now active."
+      ]
+    },
+    {
+      "tag": "command_13",
+      "patterns": [
+        "Run task 13",
+        "Execute operation 13",
+        "Perform action 13",
+        "Start process 13",
+        "Launch task 13",
+        "Activate feature 13",
+        "Jarvis do job 13",
+        "Trigger command 13",
+        "Begin task 13",
+        "Initialize function 13"
+      ],
+      "responses": [
+        "Executing task 13 now.",
+        "Task 13 has been started successfully.",
+        "Operation 13 is underway.",
+        "Running process 13...",
+        "Feature 13 is now active."
+      ]
+    },
+    {
+      "tag": "command_14",
+      "patterns": [
+        "Run task 14",
+        "Execute operation 14",
+        "Perform action 14",
+        "Start process 14",
+        "Launch task 14",
+        "Activate feature 14",
+        "Jarvis do job 14",
+        "Trigger command 14",
+        "Begin task 14",
+        "Initialize function 14"
+      ],
+      "responses": [
+        "Executing task 14 now.",
+        "Task 14 has been started successfully.",
+        "Operation 14 is underway.",
+        "Running process 14...",
+        "Feature 14 is now active."
+      ]
+    },
+    {
+      "tag": "command_15",
+      "patterns": [
+        "Run task 15",
+        "Execute operation 15",
+        "Perform action 15",
+        "Start process 15",
+        "Launch task 15",
+        "Activate feature 15",
+        "Jarvis do job 15",
+        "Trigger command 15",
+        "Begin task 15",
+        "Initialize function 15"
+      ],
+      "responses": [
+        "Executing task 15 now.",
+        "Task 15 has been started successfully.",
+        "Operation 15 is underway.",
+        "Running process 15...",
+        "Feature 15 is now active."
+      ]
+    },
+    {
+      "tag": "command_16",
+      "patterns": [
+        "Run task 16",
+        "Execute operation 16",
+        "Perform action 16",
+        "Start process 16",
+        "Launch task 16",
+        "Activate feature 16",
+        "Jarvis do job 16",
+        "Trigger command 16",
+        "Begin task 16",
+        "Initialize function 16"
+      ],
+      "responses": [
+        "Executing task 16 now.",
+        "Task 16 has been started successfully.",
+        "Operation 16 is underway.",
+        "Running process 16...",
+        "Feature 16 is now active."
+      ]
+    },
+    {
+      "tag": "command_17",
+      "patterns": [
+        "Run task 17",
+        "Execute operation 17",
+        "Perform action 17",
+        "Start process 17",
+        "Launch task 17",
+        "Activate feature 17",
+        "Jarvis do job 17",
+        "Trigger command 17",
+        "Begin task 17",
+        "Initialize function 17"
+      ],
+      "responses": [
+        "Executing task 17 now.",
+        "Task 17 has been started successfully.",
+        "Operation 17 is underway.",
+        "Running process 17...",
+        "Feature 17 is now active."
+      ]
+    },
+    {
+      "tag": "command_18",
+      "patterns": [
+        "Run task 18",
+        "Execute operation 18",
+        "Perform action 18",
+        "Start process 18",
+        "Launch task 18",
+        "Activate feature 18",
+        "Jarvis do job 18",
+        "Trigger command 18",
+        "Begin task 18",
+        "Initialize function 18"
+      ],
+      "responses": [
+        "Executing task 18 now.",
+        "Task 18 has been started successfully.",
+        "Operation 18 is underway.",
+        "Running process 18...",
+        "Feature 18 is now active."
+      ]
+    },
+    {
+      "tag": "command_19",
+      "patterns": [
+        "Run task 19",
+        "Execute operation 19",
+        "Perform action 19",
+        "Start process 19",
+        "Launch task 19",
+        "Activate feature 19",
+        "Jarvis do job 19",
+        "Trigger command 19",
+        "Begin task 19",
+        "Initialize function 19"
+      ],
+      "responses": [
+        "Executing task 19 now.",
+        "Task 19 has been started successfully.",
+        "Operation 19 is underway.",
+        "Running process 19...",
+        "Feature 19 is now active."
+      ]
+    },
+    {
+      "tag": "command_20",
+      "patterns": [
+        "Run task 20",
+        "Execute operation 20",
+        "Perform action 20",
+        "Start process 20",
+        "Launch task 20",
+        "Activate feature 20",
+        "Jarvis do job 20",
+        "Trigger command 20",
+        "Begin task 20",
+        "Initialize function 20"
+      ],
+      "responses": [
+        "Executing task 20 now.",
+        "Task 20 has been started successfully.",
+        "Operation 20 is underway.",
+        "Running process 20...",
+        "Feature 20 is now active."
+      ]
+    },
+    {
+      "tag": "command_21",
+      "patterns": [
+        "Run task 21",
+        "Execute operation 21",
+        "Perform action 21",
+        "Start process 21",
+        "Launch task 21",
+        "Activate feature 21",
+        "Jarvis do job 21",
+        "Trigger command 21",
+        "Begin task 21",
+        "Initialize function 21"
+      ],
+      "responses": [
+        "Executing task 21 now.",
+        "Task 21 has been started successfully.",
+        "Operation 21 is underway.",
+        "Running process 21...",
+        "Feature 21 is now active."
+      ]
+    },
+    {
+      "tag": "command_22",
+      "patterns": [
+        "Run task 22",
+        "Execute operation 22",
+        "Perform action 22",
+        "Start process 22",
+        "Launch task 22",
+        "Activate feature 22",
+        "Jarvis do job 22",
+        "Trigger command 22",
+        "Begin task 22",
+        "Initialize function 22"
+      ],
+      "responses": [
+        "Executing task 22 now.",
+        "Task 22 has been started successfully.",
+        "Operation 22 is underway.",
+        "Running process 22...",
+        "Feature 22 is now active."
+      ]
+    },
+    {
+      "tag": "command_23",
+      "patterns": [
+        "Run task 23",
+        "Execute operation 23",
+        "Perform action 23",
+        "Start process 23",
+        "Launch task 23",
+        "Activate feature 23",
+        "Jarvis do job 23",
+        "Trigger command 23",
+        "Begin task 23",
+        "Initialize function 23"
+      ],
+      "responses": [
+        "Executing task 23 now.",
+        "Task 23 has been started successfully.",
+        "Operation 23 is underway.",
+        "Running process 23...",
+        "Feature 23 is now active."
+      ]
+    },
+    {
+      "tag": "command_24",
+      "patterns": [
+        "Run task 24",
+        "Execute operation 24",
+        "Perform action 24",
+        "Start process 24",
+        "Launch task 24",
+        "Activate feature 24",
+        "Jarvis do job 24",
+        "Trigger command 24",
+        "Begin task 24",
+        "Initialize function 24"
+      ],
+      "responses": [
+        "Executing task 24 now.",
+        "Task 24 has been started successfully.",
+        "Operation 24 is underway.",
+        "Running process 24...",
+        "Feature 24 is now active."
+      ]
+    },
+    {
+      "tag": "command_25",
+      "patterns": [
+        "Run task 25",
+        "Execute operation 25",
+        "Perform action 25",
+        "Start process 25",
+        "Launch task 25",
+        "Activate feature 25",
+        "Jarvis do job 25",
+        "Trigger command 25",
+        "Begin task 25",
+        "Initialize function 25"
+      ],
+      "responses": [
+        "Executing task 25 now.",
+        "Task 25 has been started successfully.",
+        "Operation 25 is underway.",
+        "Running process 25...",
+        "Feature 25 is now active."
+      ]
+    },
+    {
+      "tag": "command_26",
+      "patterns": [
+        "Run task 26",
+        "Execute operation 26",
+        "Perform action 26",
+        "Start process 26",
+        "Launch task 26",
+        "Activate feature 26",
+        "Jarvis do job 26",
+        "Trigger command 26",
+        "Begin task 26",
+        "Initialize function 26"
+      ],
+      "responses": [
+        "Executing task 26 now.",
+        "Task 26 has been started successfully.",
+        "Operation 26 is underway.",
+        "Running process 26...",
+        "Feature 26 is now active."
+      ]
+    },
+    {
+      "tag": "command_27",
+      "patterns": [
+        "Run task 27",
+        "Execute operation 27",
+        "Perform action 27",
+        "Start process 27",
+        "Launch task 27",
+        "Activate feature 27",
+        "Jarvis do job 27",
+        "Trigger command 27",
+        "Begin task 27",
+        "Initialize function 27"
+      ],
+      "responses": [
+        "Executing task 27 now.",
+        "Task 27 has been started successfully.",
+        "Operation 27 is underway.",
+        "Running process 27...",
+        "Feature 27 is now active."
+      ]
+    },
+    {
+      "tag": "command_28",
+      "patterns": [
+        "Run task 28",
+        "Execute operation 28",
+        "Perform action 28",
+        "Start process 28",
+        "Launch task 28",
+        "Activate feature 28",
+        "Jarvis do job 28",
+        "Trigger command 28",
+        "Begin task 28",
+        "Initialize function 28"
+      ],
+      "responses": [
+        "Executing task 28 now.",
+        "Task 28 has been started successfully.",
+        "Operation 28 is underway.",
+        "Running process 28...",
+        "Feature 28 is now active."
+      ]
+    },
+    {
+      "tag": "command_29",
+      "patterns": [
+        "Run task 29",
+        "Execute operation 29",
+        "Perform action 29",
+        "Start process 29",
+        "Launch task 29",
+        "Activate feature 29",
+        "Jarvis do job 29",
+        "Trigger command 29",
+        "Begin task 29",
+        "Initialize function 29"
+      ],
+      "responses": [
+        "Executing task 29 now.",
+        "Task 29 has been started successfully.",
+        "Operation 29 is underway.",
+        "Running process 29...",
+        "Feature 29 is now active."
+      ]
+    },
+    {
+      "tag": "command_30",
+      "patterns": [
+        "Run task 30",
+        "Execute operation 30",
+        "Perform action 30",
+        "Start process 30",
+        "Launch task 30",
+        "Activate feature 30",
+        "Jarvis do job 30",
+        "Trigger command 30",
+        "Begin task 30",
+        "Initialize function 30"
+      ],
+      "responses": [
+        "Executing task 30 now.",
+        "Task 30 has been started successfully.",
+        "Operation 30 is underway.",
+        "Running process 30...",
+        "Feature 30 is now active."
+      ]
+    },
+    {
+      "tag": "command_31",
+      "patterns": [
+        "Run task 31",
+        "Execute operation 31",
+        "Perform action 31",
+        "Start process 31",
+        "Launch task 31",
+        "Activate feature 31",
+        "Jarvis do job 31",
+        "Trigger command 31",
+        "Begin task 31",
+        "Initialize function 31"
+      ],
+      "responses": [
+        "Executing task 31 now.",
+        "Task 31 has been started successfully.",
+        "Operation 31 is underway.",
+        "Running process 31...",
+        "Feature 31 is now active."
+      ]
+    },
+    {
+      "tag": "command_32",
+      "patterns": [
+        "Run task 32",
+        "Execute operation 32",
+        "Perform action 32",
+        "Start process 32",
+        "Launch task 32",
+        "Activate feature 32",
+        "Jarvis do job 32",
+        "Trigger command 32",
+        "Begin task 32",
+        "Initialize function 32"
+      ],
+      "responses": [
+        "Executing task 32 now.",
+        "Task 32 has been started successfully.",
+        "Operation 32 is underway.",
+        "Running process 32...",
+        "Feature 32 is now active."
+      ]
+    },
+    {
+      "tag": "command_33",
+      "patterns": [
+        "Run task 33",
+        "Execute operation 33",
+        "Perform action 33",
+        "Start process 33",
+        "Launch task 33",
+        "Activate feature 33",
+        "Jarvis do job 33",
+        "Trigger command 33",
+        "Begin task 33",
+        "Initialize function 33"
+      ],
+      "responses": [
+        "Executing task 33 now.",
+        "Task 33 has been started successfully.",
+        "Operation 33 is underway.",
+        "Running process 33...",
+        "Feature 33 is now active."
+      ]
+    },
+    {
+      "tag": "command_34",
+      "patterns": [
+        "Run task 34",
+        "Execute operation 34",
+        "Perform action 34",
+        "Start process 34",
+        "Launch task 34",
+        "Activate feature 34",
+        "Jarvis do job 34",
+        "Trigger command 34",
+        "Begin task 34",
+        "Initialize function 34"
+      ],
+      "responses": [
+        "Executing task 34 now.",
+        "Task 34 has been started successfully.",
+        "Operation 34 is underway.",
+        "Running process 34...",
+        "Feature 34 is now active."
+      ]
+    },
+    {
+      "tag": "command_35",
+      "patterns": [
+        "Run task 35",
+        "Execute operation 35",
+        "Perform action 35",
+        "Start process 35",
+        "Launch task 35",
+        "Activate feature 35",
+        "Jarvis do job 35",
+        "Trigger command 35",
+        "Begin task 35",
+        "Initialize function 35"
+      ],
+      "responses": [
+        "Executing task 35 now.",
+        "Task 35 has been started successfully.",
+        "Operation 35 is underway.",
+        "Running process 35...",
+        "Feature 35 is now active."
+      ]
+    },
+    {
+      "tag": "command_36",
+      "patterns": [
+        "Run task 36",
+        "Execute operation 36",
+        "Perform action 36",
+        "Start process 36",
+        "Launch task 36",
+        "Activate feature 36",
+        "Jarvis do job 36",
+        "Trigger command 36",
+        "Begin task 36",
+        "Initialize function 36"
+      ],
+      "responses": [
+        "Executing task 36 now.",
+        "Task 36 has been started successfully.",
+        "Operation 36 is underway.",
+        "Running process 36...",
+        "Feature 36 is now active."
+      ]
+    },
+    {
+      "tag": "command_37",
+      "patterns": [
+        "Run task 37",
+        "Execute operation 37",
+        "Perform action 37",
+        "Start process 37",
+        "Launch task 37",
+        "Activate feature 37",
+        "Jarvis do job 37",
+        "Trigger command 37",
+        "Begin task 37",
+        "Initialize function 37"
+      ],
+      "responses": [
+        "Executing task 37 now.",
+        "Task 37 has been started successfully.",
+        "Operation 37 is underway.",
+        "Running process 37...",
+        "Feature 37 is now active."
+      ]
+    },
+    {
+      "tag": "command_38",
+      "patterns": [
+        "Run task 38",
+        "Execute operation 38",
+        "Perform action 38",
+        "Start process 38",
+        "Launch task 38",
+        "Activate feature 38",
+        "Jarvis do job 38",
+        "Trigger command 38",
+        "Begin task 38",
+        "Initialize function 38"
+      ],
+      "responses": [
+        "Executing task 38 now.",
+        "Task 38 has been started successfully.",
+        "Operation 38 is underway.",
+        "Running process 38...",
+        "Feature 38 is now active."
+      ]
+    },
+    {
+      "tag": "command_39",
+      "patterns": [
+        "Run task 39",
+        "Execute operation 39",
+        "Perform action 39",
+        "Start process 39",
+        "Launch task 39",
+        "Activate feature 39",
+        "Jarvis do job 39",
+        "Trigger command 39",
+        "Begin task 39",
+        "Initialize function 39"
+      ],
+      "responses": [
+        "Executing task 39 now.",
+        "Task 39 has been started successfully.",
+        "Operation 39 is underway.",
+        "Running process 39...",
+        "Feature 39 is now active."
+      ]
+    },
+    {
+      "tag": "command_40",
+      "patterns": [
+        "Run task 40",
+        "Execute operation 40",
+        "Perform action 40",
+        "Start process 40",
+        "Launch task 40",
+        "Activate feature 40",
+        "Jarvis do job 40",
+        "Trigger command 40",
+        "Begin task 40",
+        "Initialize function 40"
+      ],
+      "responses": [
+        "Executing task 40 now.",
+        "Task 40 has been started successfully.",
+        "Operation 40 is underway.",
+        "Running process 40...",
+        "Feature 40 is now active."
+      ]
+    },
+    {
+      "tag": "command_41",
+      "patterns": [
+        "Run task 41",
+        "Execute operation 41",
+        "Perform action 41",
+        "Start process 41",
+        "Launch task 41",
+        "Activate feature 41",
+        "Jarvis do job 41",
+        "Trigger command 41",
+        "Begin task 41",
+        "Initialize function 41"
+      ],
+      "responses": [
+        "Executing task 41 now.",
+        "Task 41 has been started successfully.",
+        "Operation 41 is underway.",
+        "Running process 41...",
+        "Feature 41 is now active."
+      ]
+    },
+    {
+      "tag": "command_42",
+      "patterns": [
+        "Run task 42",
+        "Execute operation 42",
+        "Perform action 42",
+        "Start process 42",
+        "Launch task 42",
+        "Activate feature 42",
+        "Jarvis do job 42",
+        "Trigger command 42",
+        "Begin task 42",
+        "Initialize function 42"
+      ],
+      "responses": [
+        "Executing task 42 now.",
+        "Task 42 has been started successfully.",
+        "Operation 42 is underway.",
+        "Running process 42...",
+        "Feature 42 is now active."
+      ]
+    },
+    {
+      "tag": "command_43",
+      "patterns": [
+        "Run task 43",
+        "Execute operation 43",
+        "Perform action 43",
+        "Start process 43",
+        "Launch task 43",
+        "Activate feature 43",
+        "Jarvis do job 43",
+        "Trigger command 43",
+        "Begin task 43",
+        "Initialize function 43"
+      ],
+      "responses": [
+        "Executing task 43 now.",
+        "Task 43 has been started successfully.",
+        "Operation 43 is underway.",
+        "Running process 43...",
+        "Feature 43 is now active."
+      ]
+    },
+    {
+      "tag": "command_44",
+      "patterns": [
+        "Run task 44",
+        "Execute operation 44",
+        "Perform action 44",
+        "Start process 44",
+        "Launch task 44",
+        "Activate feature 44",
+        "Jarvis do job 44",
+        "Trigger command 44",
+        "Begin task 44",
+        "Initialize function 44"
+      ],
+      "responses": [
+        "Executing task 44 now.",
+        "Task 44 has been started successfully.",
+        "Operation 44 is underway.",
+        "Running process 44...",
+        "Feature 44 is now active."
+      ]
+    },
+    {
+      "tag": "command_45",
+      "patterns": [
+        "Run task 45",
+        "Execute operation 45",
+        "Perform action 45",
+        "Start process 45",
+        "Launch task 45",
+        "Activate feature 45",
+        "Jarvis do job 45",
+        "Trigger command 45",
+        "Begin task 45",
+        "Initialize function 45"
+      ],
+      "responses": [
+        "Executing task 45 now.",
+        "Task 45 has been started successfully.",
+        "Operation 45 is underway.",
+        "Running process 45...",
+        "Feature 45 is now active."
+      ]
+    },
+    {
+      "tag": "command_46",
+      "patterns": [
+        "Run task 46",
+        "Execute operation 46",
+        "Perform action 46",
+        "Start process 46",
+        "Launch task 46",
+        "Activate feature 46",
+        "Jarvis do job 46",
+        "Trigger command 46",
+        "Begin task 46",
+        "Initialize function 46"
+      ],
+      "responses": [
+        "Executing task 46 now.",
+        "Task 46 has been started successfully.",
+        "Operation 46 is underway.",
+        "Running process 46...",
+        "Feature 46 is now active."
+      ]
+    },
+    {
+      "tag": "command_47",
+      "patterns": [
+        "Run task 47",
+        "Execute operation 47",
+        "Perform action 47",
+        "Start process 47",
+        "Launch task 47",
+        "Activate feature 47",
+        "Jarvis do job 47",
+        "Trigger command 47",
+        "Begin task 47",
+        "Initialize function 47"
+      ],
+      "responses": [
+        "Executing task 47 now.",
+        "Task 47 has been started successfully.",
+        "Operation 47 is underway.",
+        "Running process 47...",
+        "Feature 47 is now active."
+      ]
+    },
+    {
+      "tag": "command_48",
+      "patterns": [
+        "Run task 48",
+        "Execute operation 48",
+        "Perform action 48",
+        "Start process 48",
+        "Launch task 48",
+        "Activate feature 48",
+        "Jarvis do job 48",
+        "Trigger command 48",
+        "Begin task 48",
+        "Initialize function 48"
+      ],
+      "responses": [
+        "Executing task 48 now.",
+        "Task 48 has been started successfully.",
+        "Operation 48 is underway.",
+        "Running process 48...",
+        "Feature 48 is now active."
+      ]
+    },
+    {
+      "tag": "command_49",
+      "patterns": [
+        "Run task 49",
+        "Execute operation 49",
+        "Perform action 49",
+        "Start process 49",
+        "Launch task 49",
+        "Activate feature 49",
+        "Jarvis do job 49",
+        "Trigger command 49",
+        "Begin task 49",
+        "Initialize function 49"
+      ],
+      "responses": [
+        "Executing task 49 now.",
+        "Task 49 has been started successfully.",
+        "Operation 49 is underway.",
+        "Running process 49...",
+        "Feature 49 is now active."
+      ]
+    },
+    {
+      "tag": "command_50",
+      "patterns": [
+        "Run task 50",
+        "Execute operation 50",
+        "Perform action 50",
+        "Start process 50",
+        "Launch task 50",
+        "Activate feature 50",
+        "Jarvis do job 50",
+        "Trigger command 50",
+        "Begin task 50",
+        "Initialize function 50"
+      ],
+      "responses": [
+        "Executing task 50 now.",
+        "Task 50 has been started successfully.",
+        "Operation 50 is underway.",
+        "Running process 50...",
+        "Feature 50 is now active."
+      ]
+    },
+    {
+      "tag": "command_51",
+      "patterns": [
+        "Run task 51",
+        "Execute operation 51",
+        "Perform action 51",
+        "Start process 51",
+        "Launch task 51",
+        "Activate feature 51",
+        "Jarvis do job 51",
+        "Trigger command 51",
+        "Begin task 51",
+        "Initialize function 51"
+      ],
+      "responses": [
+        "Executing task 51 now.",
+        "Task 51 has been started successfully.",
+        "Operation 51 is underway.",
+        "Running process 51...",
+        "Feature 51 is now active."
+      ]
+    },
+    {
+      "tag": "command_52",
+      "patterns": [
+        "Run task 52",
+        "Execute operation 52",
+        "Perform action 52",
+        "Start process 52",
+        "Launch task 52",
+        "Activate feature 52",
+        "Jarvis do job 52",
+        "Trigger command 52",
+        "Begin task 52",
+        "Initialize function 52"
+      ],
+      "responses": [
+        "Executing task 52 now.",
+        "Task 52 has been started successfully.",
+        "Operation 52 is underway.",
+        "Running process 52...",
+        "Feature 52 is now active."
+      ]
+    },
+    {
+      "tag": "command_53",
+      "patterns": [
+        "Run task 53",
+        "Execute operation 53",
+        "Perform action 53",
+        "Start process 53",
+        "Launch task 53",
+        "Activate feature 53",
+        "Jarvis do job 53",
+        "Trigger command 53",
+        "Begin task 53",
+        "Initialize function 53"
+      ],
+      "responses": [
+        "Executing task 53 now.",
+        "Task 53 has been started successfully.",
+        "Operation 53 is underway.",
+        "Running process 53...",
+        "Feature 53 is now active."
+      ]
+    },
+    {
+      "tag": "command_54",
+      "patterns": [
+        "Run task 54",
+        "Execute operation 54",
+        "Perform action 54",
+        "Start process 54",
+        "Launch task 54",
+        "Activate feature 54",
+        "Jarvis do job 54",
+        "Trigger command 54",
+        "Begin task 54",
+        "Initialize function 54"
+      ],
+      "responses": [
+        "Executing task 54 now.",
+        "Task 54 has been started successfully.",
+        "Operation 54 is underway.",
+        "Running process 54...",
+        "Feature 54 is now active."
+      ]
+    },
+    {
+      "tag": "command_55",
+      "patterns": [
+        "Run task 55",
+        "Execute operation 55",
+        "Perform action 55",
+        "Start process 55",
+        "Launch task 55",
+        "Activate feature 55",
+        "Jarvis do job 55",
+        "Trigger command 55",
+        "Begin task 55",
+        "Initialize function 55"
+      ],
+      "responses": [
+        "Executing task 55 now.",
+        "Task 55 has been started successfully.",
+        "Operation 55 is underway.",
+        "Running process 55...",
+        "Feature 55 is now active."
+      ]
+    },
+    {
+      "tag": "command_56",
+      "patterns": [
+        "Run task 56",
+        "Execute operation 56",
+        "Perform action 56",
+        "Start process 56",
+        "Launch task 56",
+        "Activate feature 56",
+        "Jarvis do job 56",
+        "Trigger command 56",
+        "Begin task 56",
+        "Initialize function 56"
+      ],
+      "responses": [
+        "Executing task 56 now.",
+        "Task 56 has been started successfully.",
+        "Operation 56 is underway.",
+        "Running process 56...",
+        "Feature 56 is now active."
+      ]
+    },
+    {
+      "tag": "command_57",
+      "patterns": [
+        "Run task 57",
+        "Execute operation 57",
+        "Perform action 57",
+        "Start process 57",
+        "Launch task 57",
+        "Activate feature 57",
+        "Jarvis do job 57",
+        "Trigger command 57",
+        "Begin task 57",
+        "Initialize function 57"
+      ],
+      "responses": [
+        "Executing task 57 now.",
+        "Task 57 has been started successfully.",
+        "Operation 57 is underway.",
+        "Running process 57...",
+        "Feature 57 is now active."
+      ]
+    },
+    {
+      "tag": "command_58",
+      "patterns": [
+        "Run task 58",
+        "Execute operation 58",
+        "Perform action 58",
+        "Start process 58",
+        "Launch task 58",
+        "Activate feature 58",
+        "Jarvis do job 58",
+        "Trigger command 58",
+        "Begin task 58",
+        "Initialize function 58"
+      ],
+      "responses": [
+        "Executing task 58 now.",
+        "Task 58 has been started successfully.",
+        "Operation 58 is underway.",
+        "Running process 58...",
+        "Feature 58 is now active."
+      ]
+    },
+    {
+      "tag": "command_59",
+      "patterns": [
+        "Run task 59",
+        "Execute operation 59",
+        "Perform action 59",
+        "Start process 59",
+        "Launch task 59",
+        "Activate feature 59",
+        "Jarvis do job 59",
+        "Trigger command 59",
+        "Begin task 59",
+        "Initialize function 59"
+      ],
+      "responses": [
+        "Executing task 59 now.",
+        "Task 59 has been started successfully.",
+        "Operation 59 is underway.",
+        "Running process 59...",
+        "Feature 59 is now active."
+      ]
+    },
+    {
+      "tag": "command_60",
+      "patterns": [
+        "Run task 60",
+        "Execute operation 60",
+        "Perform action 60",
+        "Start process 60",
+        "Launch task 60",
+        "Activate feature 60",
+        "Jarvis do job 60",
+        "Trigger command 60",
+        "Begin task 60",
+        "Initialize function 60"
+      ],
+      "responses": [
+        "Executing task 60 now.",
+        "Task 60 has been started successfully.",
+        "Operation 60 is underway.",
+        "Running process 60...",
+        "Feature 60 is now active."
+      ]
+    },
+    {
+      "tag": "command_61",
+      "patterns": [
+        "Run task 61",
+        "Execute operation 61",
+        "Perform action 61",
+        "Start process 61",
+        "Launch task 61",
+        "Activate feature 61",
+        "Jarvis do job 61",
+        "Trigger command 61",
+        "Begin task 61",
+        "Initialize function 61"
+      ],
+      "responses": [
+        "Executing task 61 now.",
+        "Task 61 has been started successfully.",
+        "Operation 61 is underway.",
+        "Running process 61...",
+        "Feature 61 is now active."
+      ]
+    },
+    {
+      "tag": "command_62",
+      "patterns": [
+        "Run task 62",
+        "Execute operation 62",
+        "Perform action 62",
+        "Start process 62",
+        "Launch task 62",
+        "Activate feature 62",
+        "Jarvis do job 62",
+        "Trigger command 62",
+        "Begin task 62",
+        "Initialize function 62"
+      ],
+      "responses": [
+        "Executing task 62 now.",
+        "Task 62 has been started successfully.",
+        "Operation 62 is underway.",
+        "Running process 62...",
+        "Feature 62 is now active."
+      ]
+    },
+    {
+      "tag": "command_63",
+      "patterns": [
+        "Run task 63",
+        "Execute operation 63",
+        "Perform action 63",
+        "Start process 63",
+        "Launch task 63",
+        "Activate feature 63",
+        "Jarvis do job 63",
+        "Trigger command 63",
+        "Begin task 63",
+        "Initialize function 63"
+      ],
+      "responses": [
+        "Executing task 63 now.",
+        "Task 63 has been started successfully.",
+        "Operation 63 is underway.",
+        "Running process 63...",
+        "Feature 63 is now active."
+      ]
+    },
+    {
+      "tag": "command_64",
+      "patterns": [
+        "Run task 64",
+        "Execute operation 64",
+        "Perform action 64",
+        "Start process 64",
+        "Launch task 64",
+        "Activate feature 64",
+        "Jarvis do job 64",
+        "Trigger command 64",
+        "Begin task 64",
+        "Initialize function 64"
+      ],
+      "responses": [
+        "Executing task 64 now.",
+        "Task 64 has been started successfully.",
+        "Operation 64 is underway.",
+        "Running process 64...",
+        "Feature 64 is now active."
+      ]
+    },
+    {
+      "tag": "command_65",
+      "patterns": [
+        "Run task 65",
+        "Execute operation 65",
+        "Perform action 65",
+        "Start process 65",
+        "Launch task 65",
+        "Activate feature 65",
+        "Jarvis do job 65",
+        "Trigger command 65",
+        "Begin task 65",
+        "Initialize function 65"
+      ],
+      "responses": [
+        "Executing task 65 now.",
+        "Task 65 has been started successfully.",
+        "Operation 65 is underway.",
+        "Running process 65...",
+        "Feature 65 is now active."
+      ]
+    },
+    {
+      "tag": "command_66",
+      "patterns": [
+        "Run task 66",
+        "Execute operation 66",
+        "Perform action 66",
+        "Start process 66",
+        "Launch task 66",
+        "Activate feature 66",
+        "Jarvis do job 66",
+        "Trigger command 66",
+        "Begin task 66",
+        "Initialize function 66"
+      ],
+      "responses": [
+        "Executing task 66 now.",
+        "Task 66 has been started successfully.",
+        "Operation 66 is underway.",
+        "Running process 66...",
+        "Feature 66 is now active."
+      ]
+    },
+    {
+      "tag": "command_67",
+      "patterns": [
+        "Run task 67",
+        "Execute operation 67",
+        "Perform action 67",
+        "Start process 67",
+        "Launch task 67",
+        "Activate feature 67",
+        "Jarvis do job 67",
+        "Trigger command 67",
+        "Begin task 67",
+        "Initialize function 67"
+      ],
+      "responses": [
+        "Executing task 67 now.",
+        "Task 67 has been started successfully.",
+        "Operation 67 is underway.",
+        "Running process 67...",
+        "Feature 67 is now active."
+      ]
+    },
+    {
+      "tag": "command_68",
+      "patterns": [
+        "Run task 68",
+        "Execute operation 68",
+        "Perform action 68",
+        "Start process 68",
+        "Launch task 68",
+        "Activate feature 68",
+        "Jarvis do job 68",
+        "Trigger command 68",
+        "Begin task 68",
+        "Initialize function 68"
+      ],
+      "responses": [
+        "Executing task 68 now.",
+        "Task 68 has been started successfully.",
+        "Operation 68 is underway.",
+        "Running process 68...",
+        "Feature 68 is now active."
+      ]
+    },
+    {
+      "tag": "command_69",
+      "patterns": [
+        "Run task 69",
+        "Execute operation 69",
+        "Perform action 69",
+        "Start process 69",
+        "Launch task 69",
+        "Activate feature 69",
+        "Jarvis do job 69",
+        "Trigger command 69",
+        "Begin task 69",
+        "Initialize function 69"
+      ],
+      "responses": [
+        "Executing task 69 now.",
+        "Task 69 has been started successfully.",
+        "Operation 69 is underway.",
+        "Running process 69...",
+        "Feature 69 is now active."
+      ]
+    },
+    {
+      "tag": "command_70",
+      "patterns": [
+        "Run task 70",
+        "Execute operation 70",
+        "Perform action 70",
+        "Start process 70",
+        "Launch task 70",
+        "Activate feature 70",
+        "Jarvis do job 70",
+        "Trigger command 70",
+        "Begin task 70",
+        "Initialize function 70"
+      ],
+      "responses": [
+        "Executing task 70 now.",
+        "Task 70 has been started successfully.",
+        "Operation 70 is underway.",
+        "Running process 70...",
+        "Feature 70 is now active."
+      ]
+    },
+    {
+      "tag": "command_71",
+      "patterns": [
+        "Run task 71",
+        "Execute operation 71",
+        "Perform action 71",
+        "Start process 71",
+        "Launch task 71",
+        "Activate feature 71",
+        "Jarvis do job 71",
+        "Trigger command 71",
+        "Begin task 71",
+        "Initialize function 71"
+      ],
+      "responses": [
+        "Executing task 71 now.",
+        "Task 71 has been started successfully.",
+        "Operation 71 is underway.",
+        "Running process 71...",
+        "Feature 71 is now active."
+      ]
+    },
+    {
+      "tag": "command_72",
+      "patterns": [
+        "Run task 72",
+        "Execute operation 72",
+        "Perform action 72",
+        "Start process 72",
+        "Launch task 72",
+        "Activate feature 72",
+        "Jarvis do job 72",
+        "Trigger command 72",
+        "Begin task 72",
+        "Initialize function 72"
+      ],
+      "responses": [
+        "Executing task 72 now.",
+        "Task 72 has been started successfully.",
+        "Operation 72 is underway.",
+        "Running process 72...",
+        "Feature 72 is now active."
+      ]
+    },
+    {
+      "tag": "command_73",
+      "patterns": [
+        "Run task 73",
+        "Execute operation 73",
+        "Perform action 73",
+        "Start process 73",
+        "Launch task 73",
+        "Activate feature 73",
+        "Jarvis do job 73",
+        "Trigger command 73",
+        "Begin task 73",
+        "Initialize function 73"
+      ],
+      "responses": [
+        "Executing task 73 now.",
+        "Task 73 has been started successfully.",
+        "Operation 73 is underway.",
+        "Running process 73...",
+        "Feature 73 is now active."
+      ]
+    },
+    {
+      "tag": "command_74",
+      "patterns": [
+        "Run task 74",
+        "Execute operation 74",
+        "Perform action 74",
+        "Start process 74",
+        "Launch task 74",
+        "Activate feature 74",
+        "Jarvis do job 74",
+        "Trigger command 74",
+        "Begin task 74",
+        "Initialize function 74"
+      ],
+      "responses": [
+        "Executing task 74 now.",
+        "Task 74 has been started successfully.",
+        "Operation 74 is underway.",
+        "Running process 74...",
+        "Feature 74 is now active."
+      ]
+    },
+    {
+      "tag": "command_75",
+      "patterns": [
+        "Run task 75",
+        "Execute operation 75",
+        "Perform action 75",
+        "Start process 75",
+        "Launch task 75",
+        "Activate feature 75",
+        "Jarvis do job 75",
+        "Trigger command 75",
+        "Begin task 75",
+        "Initialize function 75"
+      ],
+      "responses": [
+        "Executing task 75 now.",
+        "Task 75 has been started successfully.",
+        "Operation 75 is underway.",
+        "Running process 75...",
+        "Feature 75 is now active."
+      ]
+    },
+    {
+      "tag": "command_76",
+      "patterns": [
+        "Run task 76",
+        "Execute operation 76",
+        "Perform action 76",
+        "Start process 76",
+        "Launch task 76",
+        "Activate feature 76",
+        "Jarvis do job 76",
+        "Trigger command 76",
+        "Begin task 76",
+        "Initialize function 76"
+      ],
+      "responses": [
+        "Executing task 76 now.",
+        "Task 76 has been started successfully.",
+        "Operation 76 is underway.",
+        "Running process 76...",
+        "Feature 76 is now active."
+      ]
+    },
+    {
+      "tag": "command_77",
+      "patterns": [
+        "Run task 77",
+        "Execute operation 77",
+        "Perform action 77",
+        "Start process 77",
+        "Launch task 77",
+        "Activate feature 77",
+        "Jarvis do job 77",
+        "Trigger command 77",
+        "Begin task 77",
+        "Initialize function 77"
+      ],
+      "responses": [
+        "Executing task 77 now.",
+        "Task 77 has been started successfully.",
+        "Operation 77 is underway.",
+        "Running process 77...",
+        "Feature 77 is now active."
+      ]
+    },
+    {
+      "tag": "command_78",
+      "patterns": [
+        "Run task 78",
+        "Execute operation 78",
+        "Perform action 78",
+        "Start process 78",
+        "Launch task 78",
+        "Activate feature 78",
+        "Jarvis do job 78",
+        "Trigger command 78",
+        "Begin task 78",
+        "Initialize function 78"
+      ],
+      "responses": [
+        "Executing task 78 now.",
+        "Task 78 has been started successfully.",
+        "Operation 78 is underway.",
+        "Running process 78...",
+        "Feature 78 is now active."
+      ]
+    },
+    {
+      "tag": "command_79",
+      "patterns": [
+        "Run task 79",
+        "Execute operation 79",
+        "Perform action 79",
+        "Start process 79",
+        "Launch task 79",
+        "Activate feature 79",
+        "Jarvis do job 79",
+        "Trigger command 79",
+        "Begin task 79",
+        "Initialize function 79"
+      ],
+      "responses": [
+        "Executing task 79 now.",
+        "Task 79 has been started successfully.",
+        "Operation 79 is underway.",
+        "Running process 79...",
+        "Feature 79 is now active."
+      ]
+    },
+    {
+      "tag": "command_80",
+      "patterns": [
+        "Run task 80",
+        "Execute operation 80",
+        "Perform action 80",
+        "Start process 80",
+        "Launch task 80",
+        "Activate feature 80",
+        "Jarvis do job 80",
+        "Trigger command 80",
+        "Begin task 80",
+        "Initialize function 80"
+      ],
+      "responses": [
+        "Executing task 80 now.",
+        "Task 80 has been started successfully.",
+        "Operation 80 is underway.",
+        "Running process 80...",
+        "Feature 80 is now active."
+      ]
+    },
+    {
+      "tag": "command_81",
+      "patterns": [
+        "Run task 81",
+        "Execute operation 81",
+        "Perform action 81",
+        "Start process 81",
+        "Launch task 81",
+        "Activate feature 81",
+        "Jarvis do job 81",
+        "Trigger command 81",
+        "Begin task 81",
+        "Initialize function 81"
+      ],
+      "responses": [
+        "Executing task 81 now.",
+        "Task 81 has been started successfully.",
+        "Operation 81 is underway.",
+        "Running process 81...",
+        "Feature 81 is now active."
+      ]
+    },
+    {
+      "tag": "command_82",
+      "patterns": [
+        "Run task 82",
+        "Execute operation 82",
+        "Perform action 82",
+        "Start process 82",
+        "Launch task 82",
+        "Activate feature 82",
+        "Jarvis do job 82",
+        "Trigger command 82",
+        "Begin task 82",
+        "Initialize function 82"
+      ],
+      "responses": [
+        "Executing task 82 now.",
+        "Task 82 has been started successfully.",
+        "Operation 82 is underway.",
+        "Running process 82...",
+        "Feature 82 is now active."
+      ]
+    },
+    {
+      "tag": "command_83",
+      "patterns": [
+        "Run task 83",
+        "Execute operation 83",
+        "Perform action 83",
+        "Start process 83",
+        "Launch task 83",
+        "Activate feature 83",
+        "Jarvis do job 83",
+        "Trigger command 83",
+        "Begin task 83",
+        "Initialize function 83"
+      ],
+      "responses": [
+        "Executing task 83 now.",
+        "Task 83 has been started successfully.",
+        "Operation 83 is underway.",
+        "Running process 83...",
+        "Feature 83 is now active."
+      ]
+    },
+    {
+      "tag": "command_84",
+      "patterns": [
+        "Run task 84",
+        "Execute operation 84",
+        "Perform action 84",
+        "Start process 84",
+        "Launch task 84",
+        "Activate feature 84",
+        "Jarvis do job 84",
+        "Trigger command 84",
+        "Begin task 84",
+        "Initialize function 84"
+      ],
+      "responses": [
+        "Executing task 84 now.",
+        "Task 84 has been started successfully.",
+        "Operation 84 is underway.",
+        "Running process 84...",
+        "Feature 84 is now active."
+      ]
+    },
+    {
+      "tag": "command_85",
+      "patterns": [
+        "Run task 85",
+        "Execute operation 85",
+        "Perform action 85",
+        "Start process 85",
+        "Launch task 85",
+        "Activate feature 85",
+        "Jarvis do job 85",
+        "Trigger command 85",
+        "Begin task 85",
+        "Initialize function 85"
+      ],
+      "responses": [
+        "Executing task 85 now.",
+        "Task 85 has been started successfully.",
+        "Operation 85 is underway.",
+        "Running process 85...",
+        "Feature 85 is now active."
+      ]
+    },
+    {
+      "tag": "command_86",
+      "patterns": [
+        "Run task 86",
+        "Execute operation 86",
+        "Perform action 86",
+        "Start process 86",
+        "Launch task 86",
+        "Activate feature 86",
+        "Jarvis do job 86",
+        "Trigger command 86",
+        "Begin task 86",
+        "Initialize function 86"
+      ],
+      "responses": [
+        "Executing task 86 now.",
+        "Task 86 has been started successfully.",
+        "Operation 86 is underway.",
+        "Running process 86...",
+        "Feature 86 is now active."
+      ]
+    },
+    {
+      "tag": "command_87",
+      "patterns": [
+        "Run task 87",
+        "Execute operation 87",
+        "Perform action 87",
+        "Start process 87",
+        "Launch task 87",
+        "Activate feature 87",
+        "Jarvis do job 87",
+        "Trigger command 87",
+        "Begin task 87",
+        "Initialize function 87"
+      ],
+      "responses": [
+        "Executing task 87 now.",
+        "Task 87 has been started successfully.",
+        "Operation 87 is underway.",
+        "Running process 87...",
+        "Feature 87 is now active."
+      ]
+    },
+    {
+      "tag": "command_88",
+      "patterns": [
+        "Run task 88",
+        "Execute operation 88",
+        "Perform action 88",
+        "Start process 88",
+        "Launch task 88",
+        "Activate feature 88",
+        "Jarvis do job 88",
+        "Trigger command 88",
+        "Begin task 88",
+        "Initialize function 88"
+      ],
+      "responses": [
+        "Executing task 88 now.",
+        "Task 88 has been started successfully.",
+        "Operation 88 is underway.",
+        "Running process 88...",
+        "Feature 88 is now active."
+      ]
+    },
+    {
+      "tag": "command_89",
+      "patterns": [
+        "Run task 89",
+        "Execute operation 89",
+        "Perform action 89",
+        "Start process 89",
+        "Launch task 89",
+        "Activate feature 89",
+        "Jarvis do job 89",
+        "Trigger command 89",
+        "Begin task 89",
+        "Initialize function 89"
+      ],
+      "responses": [
+        "Executing task 89 now.",
+        "Task 89 has been started successfully.",
+        "Operation 89 is underway.",
+        "Running process 89...",
+        "Feature 89 is now active."
+      ]
+    },
+    {
+      "tag": "command_90",
+      "patterns": [
+        "Run task 90",
+        "Execute operation 90",
+        "Perform action 90",
+        "Start process 90",
+        "Launch task 90",
+        "Activate feature 90",
+        "Jarvis do job 90",
+        "Trigger command 90",
+        "Begin task 90",
+        "Initialize function 90"
+      ],
+      "responses": [
+        "Executing task 90 now.",
+        "Task 90 has been started successfully.",
+        "Operation 90 is underway.",
+        "Running process 90...",
+        "Feature 90 is now active."
+      ]
+    },
+    {
+      "tag": "command_91",
+      "patterns": [
+        "Run task 91",
+        "Execute operation 91",
+        "Perform action 91",
+        "Start process 91",
+        "Launch task 91",
+        "Activate feature 91",
+        "Jarvis do job 91",
+        "Trigger command 91",
+        "Begin task 91",
+        "Initialize function 91"
+      ],
+      "responses": [
+        "Executing task 91 now.",
+        "Task 91 has been started successfully.",
+        "Operation 91 is underway.",
+        "Running process 91...",
+        "Feature 91 is now active."
+      ]
+    },
+    {
+      "tag": "command_92",
+      "patterns": [
+        "Run task 92",
+        "Execute operation 92",
+        "Perform action 92",
+        "Start process 92",
+        "Launch task 92",
+        "Activate feature 92",
+        "Jarvis do job 92",
+        "Trigger command 92",
+        "Begin task 92",
+        "Initialize function 92"
+      ],
+      "responses": [
+        "Executing task 92 now.",
+        "Task 92 has been started successfully.",
+        "Operation 92 is underway.",
+        "Running process 92...",
+        "Feature 92 is now active."
+      ]
+    },
+    {
+      "tag": "command_93",
+      "patterns": [
+        "Run task 93",
+        "Execute operation 93",
+        "Perform action 93",
+        "Start process 93",
+        "Launch task 93",
+        "Activate feature 93",
+        "Jarvis do job 93",
+        "Trigger command 93",
+        "Begin task 93",
+        "Initialize function 93"
+      ],
+      "responses": [
+        "Executing task 93 now.",
+        "Task 93 has been started successfully.",
+        "Operation 93 is underway.",
+        "Running process 93...",
+        "Feature 93 is now active."
+      ]
+    },
+    {
+      "tag": "command_94",
+      "patterns": [
+        "Run task 94",
+        "Execute operation 94",
+        "Perform action 94",
+        "Start process 94",
+        "Launch task 94",
+        "Activate feature 94",
+        "Jarvis do job 94",
+        "Trigger command 94",
+        "Begin task 94",
+        "Initialize function 94"
+      ],
+      "responses": [
+        "Executing task 94 now.",
+        "Task 94 has been started successfully.",
+        "Operation 94 is underway.",
+        "Running process 94...",
+        "Feature 94 is now active."
+      ]
+    },
+    {
+      "tag": "command_95",
+      "patterns": [
+        "Run task 95",
+        "Execute operation 95",
+        "Perform action 95",
+        "Start process 95",
+        "Launch task 95",
+        "Activate feature 95",
+        "Jarvis do job 95",
+        "Trigger command 95",
+        "Begin task 95",
+        "Initialize function 95"
+      ],
+      "responses": [
+        "Executing task 95 now.",
+        "Task 95 has been started successfully.",
+        "Operation 95 is underway.",
+        "Running process 95...",
+        "Feature 95 is now active."
+      ]
+    },
+    {
+      "tag": "command_96",
+      "patterns": [
+        "Run task 96",
+        "Execute operation 96",
+        "Perform action 96",
+        "Start process 96",
+        "Launch task 96",
+        "Activate feature 96",
+        "Jarvis do job 96",
+        "Trigger command 96",
+        "Begin task 96",
+        "Initialize function 96"
+      ],
+      "responses": [
+        "Executing task 96 now.",
+        "Task 96 has been started successfully.",
+        "Operation 96 is underway.",
+        "Running process 96...",
+        "Feature 96 is now active."
+      ]
+    },
+    {
+      "tag": "command_97",
+      "patterns": [
+        "Run task 97",
+        "Execute operation 97",
+        "Perform action 97",
+        "Start process 97",
+        "Launch task 97",
+        "Activate feature 97",
+        "Jarvis do job 97",
+        "Trigger command 97",
+        "Begin task 97",
+        "Initialize function 97"
+      ],
+      "responses": [
+        "Executing task 97 now.",
+        "Task 97 has been started successfully.",
+        "Operation 97 is underway.",
+        "Running process 97...",
+        "Feature 97 is now active."
+      ]
+    },
+    {
+      "tag": "command_98",
+      "patterns": [
+        "Run task 98",
+        "Execute operation 98",
+        "Perform action 98",
+        "Start process 98",
+        "Launch task 98",
+        "Activate feature 98",
+        "Jarvis do job 98",
+        "Trigger command 98",
+        "Begin task 98",
+        "Initialize function 98"
+      ],
+      "responses": [
+        "Executing task 98 now.",
+        "Task 98 has been started successfully.",
+        "Operation 98 is underway.",
+        "Running process 98...",
+        "Feature 98 is now active."
+      ]
+    },
+    {
+      "tag": "command_99",
+      "patterns": [
+        "Run task 99",
+        "Execute operation 99",
+        "Perform action 99",
+        "Start process 99",
+        "Launch task 99",
+        "Activate feature 99",
+        "Jarvis do job 99",
+        "Trigger command 99",
+        "Begin task 99",
+        "Initialize function 99"
+      ],
+      "responses": [
+        "Executing task 99 now.",
+        "Task 99 has been started successfully.",
+        "Operation 99 is underway.",
+        "Running process 99...",
+        "Feature 99 is now active."
+      ]
+    },
+    {
+      "tag": "command_100",
+      "patterns": [
+        "Run task 100",
+        "Execute operation 100",
+        "Perform action 100",
+        "Start process 100",
+        "Launch task 100",
+        "Activate feature 100",
+        "Jarvis do job 100",
+        "Trigger command 100",
+        "Begin task 100",
+        "Initialize function 100"
+      ],
+      "responses": [
+        "Executing task 100 now.",
+        "Task 100 has been started successfully.",
+        "Operation 100 is underway.",
+        "Running process 100...",
+        "Feature 100 is now active."
+      ]
+    },
+    {
+      "tag": "weather_new york",
+      "patterns": [
+        "What's the weather in New York",
+        "Tell me the weather for New York",
+        "Weather forecast New York",
+        "How's the weather in New York",
+        "New York weather update"
+      ],
+      "responses": [
+        "The weather in New York is sunny.",
+        "New York has a cloudy sky today.",
+        "Looks like rain in New York later today.",
+        "New York weather report: warm and pleasant."
+      ]
+    },
+    {
+      "tag": "weather_london",
+      "patterns": [
+        "What's the weather in London",
+        "Tell me the weather for London",
+        "Weather forecast London",
+        "How's the weather in London",
+        "London weather update"
+      ],
+      "responses": [
+        "The weather in London is sunny.",
+        "London has a cloudy sky today.",
+        "Looks like rain in London later today.",
+        "London weather report: warm and pleasant."
+      ]
+    },
+    {
+      "tag": "weather_paris",
+      "patterns": [
+        "What's the weather in Paris",
+        "Tell me the weather for Paris",
+        "Weather forecast Paris",
+        "How's the weather in Paris",
+        "Paris weather update"
+      ],
+      "responses": [
+        "The weather in Paris is sunny.",
+        "Paris has a cloudy sky today.",
+        "Looks like rain in Paris later today.",
+        "Paris weather report: warm and pleasant."
+      ]
+    },
+    {
+      "tag": "weather_tokyo",
+      "patterns": [
+        "What's the weather in Tokyo",
+        "Tell me the weather for Tokyo",
+        "Weather forecast Tokyo",
+        "How's the weather in Tokyo",
+        "Tokyo weather update"
+      ],
+      "responses": [
+        "The weather in Tokyo is sunny.",
+        "Tokyo has a cloudy sky today.",
+        "Looks like rain in Tokyo later today.",
+        "Tokyo weather report: warm and pleasant."
+      ]
+    },
+    {
+      "tag": "weather_delhi",
+      "patterns": [
+        "What's the weather in Delhi",
+        "Tell me the weather for Delhi",
+        "Weather forecast Delhi",
+        "How's the weather in Delhi",
+        "Delhi weather update"
+      ],
+      "responses": [
+        "The weather in Delhi is sunny.",
+        "Delhi has a cloudy sky today.",
+        "Looks like rain in Delhi later today.",
+        "Delhi weather report: warm and pleasant."
+      ]
+    },
+    {
+      "tag": "weather_sydney",
+      "patterns": [
+        "What's the weather in Sydney",
+        "Tell me the weather for Sydney",
+        "Weather forecast Sydney",
+        "How's the weather in Sydney",
+        "Sydney weather update"
+      ],
+      "responses": [
+        "The weather in Sydney is sunny.",
+        "Sydney has a cloudy sky today.",
+        "Looks like rain in Sydney later today.",
+        "Sydney weather report: warm and pleasant."
+      ]
+    },
+    {
+      "tag": "weather_moscow",
+      "patterns": [
+        "What's the weather in Moscow",
+        "Tell me the weather for Moscow",
+        "Weather forecast Moscow",
+        "How's the weather in Moscow",
+        "Moscow weather update"
+      ],
+      "responses": [
+        "The weather in Moscow is sunny.",
+        "Moscow has a cloudy sky today.",
+        "Looks like rain in Moscow later today.",
+        "Moscow weather report: warm and pleasant."
+      ]
+    },
+    {
+      "tag": "weather_berlin",
+      "patterns": [
+        "What's the weather in Berlin",
+        "Tell me the weather for Berlin",
+        "Weather forecast Berlin",
+        "How's the weather in Berlin",
+        "Berlin weather update"
+      ],
+      "responses": [
+        "The weather in Berlin is sunny.",
+        "Berlin has a cloudy sky today.",
+        "Looks like rain in Berlin later today.",
+        "Berlin weather report: warm and pleasant."
+      ]
+    },
+    {
+      "tag": "weather_rome",
+      "patterns": [
+        "What's the weather in Rome",
+        "Tell me the weather for Rome",
+        "Weather forecast Rome",
+        "How's the weather in Rome",
+        "Rome weather update"
+      ],
+      "responses": [
+        "The weather in Rome is sunny.",
+        "Rome has a cloudy sky today.",
+        "Looks like rain in Rome later today.",
+        "Rome weather report: warm and pleasant."
+      ]
+    },
+    {
+      "tag": "weather_dubai",
+      "patterns": [
+        "What's the weather in Dubai",
+        "Tell me the weather for Dubai",
+        "Weather forecast Dubai",
+        "How's the weather in Dubai",
+        "Dubai weather update"
+      ],
+      "responses": [
+        "The weather in Dubai is sunny.",
+        "Dubai has a cloudy sky today.",
+        "Looks like rain in Dubai later today.",
+        "Dubai weather report: warm and pleasant."
+      ]
+    },
+    {
+      "tag": "math_square_1",
+      "patterns": [
+        "What is the square of 1",
+        "Calculate 1 squared",
+        "Square 1 please"
+      ],
+      "responses": [
+        "The square of 1 is 1.",
+        "1 squared equals 1."
+      ]
+    },
+    {
+      "tag": "math_square_2",
+      "patterns": [
+        "What is the square of 2",
+        "Calculate 2 squared",
+        "Square 2 please"
+      ],
+      "responses": [
+        "The square of 2 is 4.",
+        "2 squared equals 4."
+      ]
+    },
+    {
+      "tag": "math_square_3",
+      "patterns": [
+        "What is the square of 3",
+        "Calculate 3 squared",
+        "Square 3 please"
+      ],
+      "responses": [
+        "The square of 3 is 9.",
+        "3 squared equals 9."
+      ]
+    },
+    {
+      "tag": "math_square_4",
+      "patterns": [
+        "What is the square of 4",
+        "Calculate 4 squared",
+        "Square 4 please"
+      ],
+      "responses": [
+        "The square of 4 is 16.",
+        "4 squared equals 16."
+      ]
+    },
+    {
+      "tag": "math_square_5",
+      "patterns": [
+        "What is the square of 5",
+        "Calculate 5 squared",
+        "Square 5 please"
+      ],
+      "responses": [
+        "The square of 5 is 25.",
+        "5 squared equals 25."
+      ]
+    },
+    {
+      "tag": "math_square_6",
+      "patterns": [
+        "What is the square of 6",
+        "Calculate 6 squared",
+        "Square 6 please"
+      ],
+      "responses": [
+        "The square of 6 is 36.",
+        "6 squared equals 36."
+      ]
+    },
+    {
+      "tag": "math_square_7",
+      "patterns": [
+        "What is the square of 7",
+        "Calculate 7 squared",
+        "Square 7 please"
+      ],
+      "responses": [
+        "The square of 7 is 49.",
+        "7 squared equals 49."
+      ]
+    },
+    {
+      "tag": "math_square_8",
+      "patterns": [
+        "What is the square of 8",
+        "Calculate 8 squared",
+        "Square 8 please"
+      ],
+      "responses": [
+        "The square of 8 is 64.",
+        "8 squared equals 64."
+      ]
+    },
+    {
+      "tag": "math_square_9",
+      "patterns": [
+        "What is the square of 9",
+        "Calculate 9 squared",
+        "Square 9 please"
+      ],
+      "responses": [
+        "The square of 9 is 81.",
+        "9 squared equals 81."
+      ]
+    },
+    {
+      "tag": "math_square_10",
+      "patterns": [
+        "What is the square of 10",
+        "Calculate 10 squared",
+        "Square 10 please"
+      ],
+      "responses": [
+        "The square of 10 is 100.",
+        "10 squared equals 100."
+      ]
+    },
+    {
+      "tag": "math_square_11",
+      "patterns": [
+        "What is the square of 11",
+        "Calculate 11 squared",
+        "Square 11 please"
+      ],
+      "responses": [
+        "The square of 11 is 121.",
+        "11 squared equals 121."
+      ]
+    },
+    {
+      "tag": "math_square_12",
+      "patterns": [
+        "What is the square of 12",
+        "Calculate 12 squared",
+        "Square 12 please"
+      ],
+      "responses": [
+        "The square of 12 is 144.",
+        "12 squared equals 144."
+      ]
+    },
+    {
+      "tag": "math_square_13",
+      "patterns": [
+        "What is the square of 13",
+        "Calculate 13 squared",
+        "Square 13 please"
+      ],
+      "responses": [
+        "The square of 13 is 169.",
+        "13 squared equals 169."
+      ]
+    },
+    {
+      "tag": "math_square_14",
+      "patterns": [
+        "What is the square of 14",
+        "Calculate 14 squared",
+        "Square 14 please"
+      ],
+      "responses": [
+        "The square of 14 is 196.",
+        "14 squared equals 196."
+      ]
+    },
+    {
+      "tag": "math_square_15",
+      "patterns": [
+        "What is the square of 15",
+        "Calculate 15 squared",
+        "Square 15 please"
+      ],
+      "responses": [
+        "The square of 15 is 225.",
+        "15 squared equals 225."
+      ]
+    },
+    {
+      "tag": "math_square_16",
+      "patterns": [
+        "What is the square of 16",
+        "Calculate 16 squared",
+        "Square 16 please"
+      ],
+      "responses": [
+        "The square of 16 is 256.",
+        "16 squared equals 256."
+      ]
+    },
+    {
+      "tag": "math_square_17",
+      "patterns": [
+        "What is the square of 17",
+        "Calculate 17 squared",
+        "Square 17 please"
+      ],
+      "responses": [
+        "The square of 17 is 289.",
+        "17 squared equals 289."
+      ]
+    },
+    {
+      "tag": "math_square_18",
+      "patterns": [
+        "What is the square of 18",
+        "Calculate 18 squared",
+        "Square 18 please"
+      ],
+      "responses": [
+        "The square of 18 is 324.",
+        "18 squared equals 324."
+      ]
+    },
+    {
+      "tag": "math_square_19",
+      "patterns": [
+        "What is the square of 19",
+        "Calculate 19 squared",
+        "Square 19 please"
+      ],
+      "responses": [
+        "The square of 19 is 361.",
+        "19 squared equals 361."
+      ]
+    },
+    {
+      "tag": "math_square_20",
+      "patterns": [
+        "What is the square of 20",
+        "Calculate 20 squared",
+        "Square 20 please"
+      ],
+      "responses": [
+        "The square of 20 is 400.",
+        "20 squared equals 400."
+      ]
+    },
+    {
+      "tag": "math_square_21",
+      "patterns": [
+        "What is the square of 21",
+        "Calculate 21 squared",
+        "Square 21 please"
+      ],
+      "responses": [
+        "The square of 21 is 441.",
+        "21 squared equals 441."
+      ]
+    },
+    {
+      "tag": "math_square_22",
+      "patterns": [
+        "What is the square of 22",
+        "Calculate 22 squared",
+        "Square 22 please"
+      ],
+      "responses": [
+        "The square of 22 is 484.",
+        "22 squared equals 484."
+      ]
+    },
+    {
+      "tag": "math_square_23",
+      "patterns": [
+        "What is the square of 23",
+        "Calculate 23 squared",
+        "Square 23 please"
+      ],
+      "responses": [
+        "The square of 23 is 529.",
+        "23 squared equals 529."
+      ]
+    },
+    {
+      "tag": "math_square_24",
+      "patterns": [
+        "What is the square of 24",
+        "Calculate 24 squared",
+        "Square 24 please"
+      ],
+      "responses": [
+        "The square of 24 is 576.",
+        "24 squared equals 576."
+      ]
+    },
+    {
+      "tag": "math_square_25",
+      "patterns": [
+        "What is the square of 25",
+        "Calculate 25 squared",
+        "Square 25 please"
+      ],
+      "responses": [
+        "The square of 25 is 625.",
+        "25 squared equals 625."
+      ]
+    },
+    {
+      "tag": "math_square_26",
+      "patterns": [
+        "What is the square of 26",
+        "Calculate 26 squared",
+        "Square 26 please"
+      ],
+      "responses": [
+        "The square of 26 is 676.",
+        "26 squared equals 676."
+      ]
+    },
+    {
+      "tag": "math_square_27",
+      "patterns": [
+        "What is the square of 27",
+        "Calculate 27 squared",
+        "Square 27 please"
+      ],
+      "responses": [
+        "The square of 27 is 729.",
+        "27 squared equals 729."
+      ]
+    },
+    {
+      "tag": "math_square_28",
+      "patterns": [
+        "What is the square of 28",
+        "Calculate 28 squared",
+        "Square 28 please"
+      ],
+      "responses": [
+        "The square of 28 is 784.",
+        "28 squared equals 784."
+      ]
+    },
+    {
+      "tag": "math_square_29",
+      "patterns": [
+        "What is the square of 29",
+        "Calculate 29 squared",
+        "Square 29 please"
+      ],
+      "responses": [
+        "The square of 29 is 841.",
+        "29 squared equals 841."
+      ]
+    },
+    {
+      "tag": "math_square_30",
+      "patterns": [
+        "What is the square of 30",
+        "Calculate 30 squared",
+        "Square 30 please"
+      ],
+      "responses": [
+        "The square of 30 is 900.",
+        "30 squared equals 900."
+      ]
+    },
+    {
+      "tag": "math_square_31",
+      "patterns": [
+        "What is the square of 31",
+        "Calculate 31 squared",
+        "Square 31 please"
+      ],
+      "responses": [
+        "The square of 31 is 961.",
+        "31 squared equals 961."
+      ]
+    },
+    {
+      "tag": "math_square_32",
+      "patterns": [
+        "What is the square of 32",
+        "Calculate 32 squared",
+        "Square 32 please"
+      ],
+      "responses": [
+        "The square of 32 is 1024.",
+        "32 squared equals 1024."
+      ]
+    },
+    {
+      "tag": "math_square_33",
+      "patterns": [
+        "What is the square of 33",
+        "Calculate 33 squared",
+        "Square 33 please"
+      ],
+      "responses": [
+        "The square of 33 is 1089.",
+        "33 squared equals 1089."
+      ]
+    },
+    {
+      "tag": "math_square_34",
+      "patterns": [
+        "What is the square of 34",
+        "Calculate 34 squared",
+        "Square 34 please"
+      ],
+      "responses": [
+        "The square of 34 is 1156.",
+        "34 squared equals 1156."
+      ]
+    },
+    {
+      "tag": "math_square_35",
+      "patterns": [
+        "What is the square of 35",
+        "Calculate 35 squared",
+        "Square 35 please"
+      ],
+      "responses": [
+        "The square of 35 is 1225.",
+        "35 squared equals 1225."
+      ]
+    },
+    {
+      "tag": "math_square_36",
+      "patterns": [
+        "What is the square of 36",
+        "Calculate 36 squared",
+        "Square 36 please"
+      ],
+      "responses": [
+        "The square of 36 is 1296.",
+        "36 squared equals 1296."
+      ]
+    },
+    {
+      "tag": "math_square_37",
+      "patterns": [
+        "What is the square of 37",
+        "Calculate 37 squared",
+        "Square 37 please"
+      ],
+      "responses": [
+        "The square of 37 is 1369.",
+        "37 squared equals 1369."
+      ]
+    },
+    {
+      "tag": "math_square_38",
+      "patterns": [
+        "What is the square of 38",
+        "Calculate 38 squared",
+        "Square 38 please"
+      ],
+      "responses": [
+        "The square of 38 is 1444.",
+        "38 squared equals 1444."
+      ]
+    },
+    {
+      "tag": "math_square_39",
+      "patterns": [
+        "What is the square of 39",
+        "Calculate 39 squared",
+        "Square 39 please"
+      ],
+      "responses": [
+        "The square of 39 is 1521.",
+        "39 squared equals 1521."
+      ]
+    },
+    {
+      "tag": "math_square_40",
+      "patterns": [
+        "What is the square of 40",
+        "Calculate 40 squared",
+        "Square 40 please"
+      ],
+      "responses": [
+        "The square of 40 is 1600.",
+        "40 squared equals 1600."
+      ]
+    },
+    {
+      "tag": "math_square_41",
+      "patterns": [
+        "What is the square of 41",
+        "Calculate 41 squared",
+        "Square 41 please"
+      ],
+      "responses": [
+        "The square of 41 is 1681.",
+        "41 squared equals 1681."
+      ]
+    },
+    {
+      "tag": "math_square_42",
+      "patterns": [
+        "What is the square of 42",
+        "Calculate 42 squared",
+        "Square 42 please"
+      ],
+      "responses": [
+        "The square of 42 is 1764.",
+        "42 squared equals 1764."
+      ]
+    },
+    {
+      "tag": "math_square_43",
+      "patterns": [
+        "What is the square of 43",
+        "Calculate 43 squared",
+        "Square 43 please"
+      ],
+      "responses": [
+        "The square of 43 is 1849.",
+        "43 squared equals 1849."
+      ]
+    },
+    {
+      "tag": "math_square_44",
+      "patterns": [
+        "What is the square of 44",
+        "Calculate 44 squared",
+        "Square 44 please"
+      ],
+      "responses": [
+        "The square of 44 is 1936.",
+        "44 squared equals 1936."
+      ]
+    },
+    {
+      "tag": "math_square_45",
+      "patterns": [
+        "What is the square of 45",
+        "Calculate 45 squared",
+        "Square 45 please"
+      ],
+      "responses": [
+        "The square of 45 is 2025.",
+        "45 squared equals 2025."
+      ]
+    },
+    {
+      "tag": "math_square_46",
+      "patterns": [
+        "What is the square of 46",
+        "Calculate 46 squared",
+        "Square 46 please"
+      ],
+      "responses": [
+        "The square of 46 is 2116.",
+        "46 squared equals 2116."
+      ]
+    },
+    {
+      "tag": "math_square_47",
+      "patterns": [
+        "What is the square of 47",
+        "Calculate 47 squared",
+        "Square 47 please"
+      ],
+      "responses": [
+        "The square of 47 is 2209.",
+        "47 squared equals 2209."
+      ]
+    },
+    {
+      "tag": "math_square_48",
+      "patterns": [
+        "What is the square of 48",
+        "Calculate 48 squared",
+        "Square 48 please"
+      ],
+      "responses": [
+        "The square of 48 is 2304.",
+        "48 squared equals 2304."
+      ]
+    },
+    {
+      "tag": "math_square_49",
+      "patterns": [
+        "What is the square of 49",
+        "Calculate 49 squared",
+        "Square 49 please"
+      ],
+      "responses": [
+        "The square of 49 is 2401.",
+        "49 squared equals 2401."
+      ]
+    },
+    {
+      "tag": "math_square_50",
+      "patterns": [
+        "What is the square of 50",
+        "Calculate 50 squared",
+        "Square 50 please"
+      ],
+      "responses": [
+        "The square of 50 is 2500.",
+        "50 squared equals 2500."
+      ]
+    }
+  ]
+}

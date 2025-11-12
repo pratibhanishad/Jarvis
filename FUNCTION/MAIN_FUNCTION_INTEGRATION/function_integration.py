@@ -8,7 +8,7 @@ from FUNCTION.SEO_GENERATOR.seo_generator import *
 import pyautogui as gui
 
 def Function_cmd(text):
-    if "check internet speed" in text or "check speed test" in text or "speed test" in text:
+    if "check internet speed" in text or "check speed test" in text or "speed test" in text or "internet speed" in text:
         check_internet_speed()
     elif "are you there" in text or "hello there" in text:
         internet_status()
@@ -18,7 +18,7 @@ def Function_cmd(text):
         speak("your ip is" +  find_my_ip())
     elif "what is the time" in text or "time " in text or "what time is" in text:
         what_is_the_time()
-    elif "start clap with music system " in text or "start smart music system" in text or "start clap with music" in text or "Start clap music" in text:
+    elif "start clap with music system " in text or "start smart music system" in text or "start clap with music" in text or "start clap music" in text:
         speak("ok now starting")
         clap_to_music()
     elif "activate seo generator" in text or "activate youtube title generator" in text or "activate seo generator" in text:
@@ -75,7 +75,7 @@ def Function_cmd(text):
 
 
     # Show location
-    elif "show me the location" in text or "check location" in text or "where is" in text:
+    elif "show me location" in text or "check location" in text or "where is" in text:
         text = text.replace("show me the location", "")
         text = text.replace("check location", "")
         text = text.replace("where is", "")

@@ -1,12 +1,11 @@
 from AUTOMATION.JARVIS_YOUTUBE_AUTOMATION.ANOTHER_AUTOMATION_IN_YOUTUBE.Another_Automation_in_youtube import *
-from DATA.JARVIS_DLG_DATASET.DLG import q
 from FUNCTION.JARVIS_LISTEN.listen import listen
-from FUNCTION.JARVIS_SPEAK.speak import speak
 from AUTOMATION.JARVIS_YOUTUBE_AUTOMATION.CAPTION_IN_VIDEO.caption_in_video import *
 from AUTOMATION.JARVIS_YOUTUBE_AUTOMATION.MANUAL_SEARCH_IN_YOUTUBE.manual_search_in_youtube import *
 from AUTOMATION.JARVIS_YOUTUBE_AUTOMATION.PLAY_MUSIC_IN_YOUTUBE.play_music_in_youtube import *
 from AUTOMATION.JARVIS_YOUTUBE_AUTOMATION.SEARCH_IN_YOUTUBE.search_in_youtube import *
 from AUTOMATION.JARVIS_YOUTUBE_AUTOMATION.PLAY_PAUSE_VIDEO_IN_YOUTUBE.play_pause_video_in_youtube import *
+from FUNCTION.JARVIS_SPEAK.speak import *
 from AUTOMATION.JARVIS_YOUTUBE_AUTOMATION.YOUTUBE_VIDEO_PLAYBACK.youtube_video_playback import *
 from DATA.JARVIS_DLG_DATASET. DLG import *
 
@@ -140,11 +139,10 @@ def youtube_cmd(text):
         youtube_search(text)
 
     elif text.endswith("search in current youtube window") or text.startswith("search on current youtube window") or text.endswith("search current youtube window")or text.startswith("search"):
-        text = text.replace("search in current youtube window", "")
-        text = text.replace("search on current youtube window", "")
-        text = text.replace("search current youtube window", "")
-        text = text.replace("search", "")
+        text.replace("search in current youtube window", "")
+        text.replace("search on current youtube window", "")
+        text.replace("search current youtube window", "")
+        text.replace("search", "")
         search_manual(text)
     else:
         pass
-

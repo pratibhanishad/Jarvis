@@ -1,7 +1,5 @@
 import pyautogui
-import time
 
-# ----------- YouTube Control Shortcuts -----------
 
 def go_to_search():
     pyautogui.press("/")   # on QWERTY, use "/" ; AZERTY keyboards need Shift+/ sometimes

@@ -14,7 +14,7 @@ from playsound import playsound
 import eel
 from FUNCTION.CHECK_ONLINE_OFFLINE_STATUS.check_online_offline_status import *
 
-eel.init(r'C:\Users\chatu\OneDrive\Desktop\J.A.R.V.I.S\web')
+eel.init(r'C:\Users\PRATI\OneDrive\Desktop\JARVIS4.1\web')
 
 def comain():
    while True:
@@ -32,11 +32,12 @@ def comain():
            response = brain(text)
            speak(response)
 
-       else:
+
+   else:
           pass
 def main():
     playsound(r"C:\Users\PRATI\Desktop\JARVIS4.1\DATA\MUSIC\SOUND_EFFECT\mixkit-sci-fi-click-900.wav")
-    time.sleep(2)
+    time.sleep(5)
     # while True:
     #     wake_cmd = hearing().lower()
     #     if wake_cmd in wake_key_word:
@@ -47,7 +48,6 @@ def main():
 
 def jarvis():
     playsound(r"C:\Users\PRATI\Desktop\JARVIS4.1\DATA\MUSIC\SOUND_EFFECT\mixkit-bonus-earned-in-video-game-2058.wav")
-
     t1 = threading.Thread(target=main)
     t2 = threading.Thread(target=battery_alert)
     t3 = threading.Thread(target=check_plugin_status)

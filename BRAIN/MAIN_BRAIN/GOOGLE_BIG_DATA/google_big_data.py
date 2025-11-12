@@ -1,79 +1,55 @@
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.wait import WebDriverWait
-import undetected_chromedriver as uc
-import traceback
+import time
 import re
 
-# ✅ Fix WinError destructor issue
-uc.Chrome.__del__ = lambda self: None
 
-# Setup driver
-chrome_options = uc.ChromeOptions()
-chrome_options.add_argument("--headless")   # 👉 Uncomment if you want background mode
-chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+def google_answer(query):
+    chrome_options = Options()
+    chrome_options.add_argument("--headless=new")
+    chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+    chrome_options.add_argument(
+        "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36"
+    )
+    chrome_options.add_argument("--window-size=1920,1080")
 
-driver = uc.Chrome(options=chrome_options, version_main=139)
+    chrome_driver_path = r"C:\Users\PRATI\Desktop\JARVIS4.1\DATA\JARVIS_DRIVER\chromedriver.exe"
+    driver = webdriver.Chrome(service=Service(chrome_driver_path), options=chrome_options)
 
+    driver.get(f"https://www.google.com/search?q={query.replace(' ', '+')}")
+    time.sleep(2)
 
-def realtimeDataBrain(query):
-    try:
-        print(f"\nSearch Query: {query}\n")
-        driver.get("https://www.google.com")
-        # Accept cookies (if popup appears)
-        try:
-            agree_btn = WebDriverWait(driver, 3).until(
-                EC.element_to_be_clickable((By.XPATH, "//button//*[text()='I agree']"))
-            )
-            agree_btn.click()
-        except:
-            pass
+    soup = BeautifulSoup(driver.page_source, "html.parser")
 
-        # Enter query
-        search_box = driver.find_element(By.NAME, "q")
-        search_box.send_keys(query)
-        search_box.send_keys(Keys.RETURN)
+    selectors = [
+        ".Z0LcW",                     # Direct Answer Title
+        ".e24Kjd",                    # Main direct answer
+        ".kno-rdesc span",            # Knowledge panel short desc
+        "div[data-attrid='wa:/description']",
+        ".VwiC3b"                     # Organic snippet
+    ]
 
-        # Wait for results
-        first_results = WebDriverWait(driver, 20).until(
-            EC.presence_of_all_elements_located((By.XPATH, "//h3/ancestor::a"))
-        )
+    for selector in selectors:
+        element = soup.select_one(selector)
+        if element and element.get_text(strip=True):
+            text = element.get_text(" ", strip=True)
+            driver.quit()
+            sentences = re.split(r'(?<=[.!?]) +', text)
+            return " ".join(sentences[:3])
 
-        # Default first link
-        first_result_link = first_results[0].get_attribute("href")
-
-        # Prefer Wikipedia if available
-        wiki_link = None
-        for r in first_results:
-            href = r.get_attribute("href")
-            if "wikipedia.org" in href:
-                wiki_link = href
-                break
-
-        link_to_open = wiki_link if wiki_link else first_result_link
-        print(f"Top Link: {link_to_open}\n")
-
-        driver.get(link_to_open)
-
-        # Get webpage content
-        webpage_content = driver.page_source
-        soup = BeautifulSoup(webpage_content, 'html.parser')
-
-        # Extract <p> text
-        webpage_text = ' '.join([p.get_text() for p in soup.find_all('p')])
-
-        # Pick first sentences
-        sentences = re.split(r'(?<=[.!?])\s', webpage_text)
-        result_text = '. '.join(sentences[:6])  # first 6 sentences only
+    driver.quit()
+    return "No proper result found."
 
 
-        return result_text
+def deep_answer(query):
+    result = google_answer(query)
+    print(result)
 
-    except Exception as e:
-        print("Error:", e)
-        traceback.print_exc()
 
-    finally:
-        driver.quit()
+# deep_answer("What is AI")
+# deep_answer("What is Machine learning")

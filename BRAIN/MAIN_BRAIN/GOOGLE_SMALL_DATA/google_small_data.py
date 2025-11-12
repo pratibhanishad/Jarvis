@@ -1,97 +1,83 @@
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.common.keys import Keys
+import undetected_chromedriver as uc
 from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import re
-
-driver = None  # Global driver
-
-def get_driver():
-    """Start Chrome driver (fresh instance)."""
-    chrome_options = Options()
-    chrome_options.add_argument("--headless")  # background mode
-    chrome_options.add_argument("--disable-blink-features=AutomationControlled")
-    chrome_options.add_argument("--window-size=1920,1080")
-
-    chrome_driver_path = r"C:\Users\PRATI\Desktop\JARVIS4.1\DATA\JARVIS_DRIVER\chromedriver.exe"
-    chrome_service = Service(chrome_driver_path)
-    return webdriver.Chrome(service=chrome_service, options=chrome_options)
+import time
+import traceback
 
 
 def search_brain(query):
-    """Search Google for query and return clean result."""
-    global driver
-    if driver is None:
-        driver = get_driver()
-
+    """
+    Print one clean line from Google search result.
+    """
     try:
-        driver.get("https://www.google.com")
+        options = uc.ChromeOptions()
+        options.add_argument("--headless")
+        options.add_argument("--disable-blink-features=AutomationControlled")
+        options.add_argument("--no-sandbox")
+        options.add_argument("--disable-dev-shm-usage")
+        options.add_argument("--window-size=1920,1080")
 
-        search_box = WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.NAME, "q"))
-        )
+        driver = uc.Chrome(options=options)
+        driver.get("https://www.google.com/")
+
+        # Wait for search bar
+        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.NAME, "q")))
+        search_box = driver.find_element(By.NAME, "q")
         search_box.clear()
         search_box.send_keys(query)
         search_box.send_keys(Keys.RETURN)
 
-        # ✅ Try Knowledge Panel (right side box)
-        try:
-            kp_title = WebDriverWait(driver, 3).until(
-                EC.presence_of_element_located((By.CSS_SELECTOR, "div[data-attrid='title'] span"))
-            ).text
-
-            kp_desc = driver.find_element(By.CSS_SELECTOR, "div[data-attrid='description'] span").text
-
-            return {"title": f"{kp_title}\n{kp_desc}", "url": driver.current_url}
-        except:
-            pass
-
-        # ✅ If no knowledge panel → take first search result
-        first_result = WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.XPATH, "(//h3)[1]"))
-        )
-        parent = (
-            first_result.find_element(By.XPATH, "./ancestor::a")
-            if first_result.tag_name != "a"
-            else first_result
+        # ✅ Wait until some result elements appear
+        WebDriverWait(driver, 10).until(
+            lambda d: len(
+                d.find_elements(
+                    By.CSS_SELECTOR,
+                    "div[data-sokoban-container], div.g, div.tF2Cxc, div.VwiC3b, div[role='heading']",
+                )
+            )
+            > 0
         )
 
-        title = parent.text
-        url = parent.get_attribute("href")
+        time.sleep(2)  # Let Google load all snippets
 
-        # Clean text
-        sentences = re.split(r'(?<=[.!?])\s', title)
-        filtered_sentences = [s for s in sentences if not re.search(r'https?://\S+', s)]
-        result_text = '. '.join(filtered_sentences[:5])
-        result_text = result_text.replace("Featured snippet from the web,", "")
+        # ✅ Collect visible text from first non-empty result
+        elements = driver.find_elements(
+            By.CSS_SELECTOR,
+            "div[data-sokoban-container], div.tF2Cxc, div.g, div.VwiC3b, div[role='heading']",
+        )
 
-        return {"title": result_text, "url": url}
+        text_content = ""
+        for el in elements:
+            if el.text.strip():
+                text_content = el.text.strip()
+                break
+
+        if not text_content:
+            print("No search results found.")
+            return
+
+        # ✂️ Clean to first readable sentence
+        sentences = re.split(r'(?<=[.!?])\s+', text_content)
+        filtered = [s for s in sentences if not re.search(r'(https?://|www\.|©|\d{4})', s)]
+
+        result_line = filtered[0] if filtered else sentences[0]
+
+        # ✅ Print single clean line
+        print(result_line)
 
     except Exception as e:
-        print(f"⚠️ Error while searching '{query}': {e}")
+        print("Error occurred:", e)
+        traceback.print_exc()
+
+    finally:
         try:
-            if driver:
-                driver.quit()
+            driver.quit()
         except:
             pass
-        driver = None
-        return None
 
 
-def run_queries(queries):
-    if isinstance(queries, str):
-        queries = [queries]
-
-    for q in queries:
-        result = search_brain(q)
-        if result:
-            print(f"\n🔹 Query: {q}\n")
-            print(result["title"])  # 👈 Clean format like screenshot
-            print(result["url"])
-
-        else:
-            print(f"\n No result for query: {q}")
-
+# ✅ Run example
+# search_brain("who is Anubhav Chaturvedi YouTube")

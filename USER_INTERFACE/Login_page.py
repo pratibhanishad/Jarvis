@@ -26,27 +26,85 @@ def check_login():
         messagebox.showerror("Error", "Invalid Credentials")
 
 
-# -------------- LOGIN WINDOW ----------------
+# ---------------- LOGIN WINDOW ----------------
 ctk.set_appearance_mode("dark")
 ctk.set_default_color_theme("blue")
 
 app = ctk.CTk()
 app.title("Jarvis Login Page")
-app.geometry("600x400")
 
-frame = ctk.CTkFrame(master=app, width=350, height=250, corner_radius=20)
+# 🔹 Make window larger (HD size)
+app.geometry("900x600")   # was 600x400
+
+# Optional: Disable resizing (for fixed layout)
+app.resizable(False, False)
+
+# 🔹 Main frame (centered)
+frame = ctk.CTkFrame(master=app, width=500, height=400, corner_radius=25)
 frame.place(relx=0.5, rely=0.5, anchor="center")
 
-title = ctk.CTkLabel(master=frame, text="PRATIBHA NISHAD", font=("Arial", 20, "bold"))
-title.pack(pady=20)
+# 🔹 Title
+title = ctk.CTkLabel(
+    master=frame,
+    text="WELCOME TO JARVIS",
+    font=("Arial Rounded MT Bold", 28, "bold"),
+    text_color="cyan"
+)
+title.pack(pady=(40, 20))
 
-entry_user = ctk.CTkEntry(master=frame, placeholder_text="Enter User ID", width=250)
-entry_user.pack(pady=10)
+# 🔹 Subtitle
+subtitle = ctk.CTkLabel(
+    master=frame,
+    text="Login as Pratibha Nishad",
+    font=("Arial", 16),
+    text_color="#AAAAAA"
+)
+subtitle.pack(pady=(0, 20))
 
-entry_pass = ctk.CTkEntry(master=frame, placeholder_text="Enter Password", show="*", width=250)
-entry_pass.pack(pady=10)
+# 🔹 Username entry
+entry_user = ctk.CTkEntry(
+    master=frame,
+    placeholder_text="Enter User ID",
+    width=300,
+    height=40,
+    corner_radius=10,
+    font=("Arial", 14)
+)
+entry_user.pack(pady=15)
 
-login_btn = ctk.CTkButton(master=frame, text="Login", command=check_login, width=120)
-login_btn.pack(pady=20)
+# 🔹 Password entry
+entry_pass = ctk.CTkEntry(
+    master=frame,
+    placeholder_text="Enter Password",
+    show="*",
+    width=300,
+    height=40,
+    corner_radius=10,
+    font=("Arial", 14)
+)
+entry_pass.pack(pady=15)
+
+# 🔹 Login button (bigger & stylish)
+login_btn = ctk.CTkButton(
+    master=frame,
+    text="LOGIN",
+    command=check_login,
+    width=200,
+    height=45,
+    corner_radius=15,
+    font=("Arial Rounded MT Bold", 18),
+    fg_color="#0078D7",
+    hover_color="#005999"
+)
+login_btn.pack(pady=(30, 10))
+
+# 🔹 Optional footer text
+footer = ctk.CTkLabel(
+    master=frame,
+    text="Powered by Pratibha's Jarvis AI",
+    font=("Arial", 12),
+    text_color="#888888"
+)
+footer.pack(side="bottom", pady=10)
 
 app.mainloop()

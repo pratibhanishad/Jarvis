@@ -1,26 +1,26 @@
 import speech_recognition as sr
 import os
 import threading
+
 from deep_translator import GoogleTranslator
+from mtranslate import translate
 from colorama import Fore,Style,init
 
 init(autoreset=True)
 
 def print_loop():
     while True:
-        print(Fore.LIGHTBLUE_EX + "I am Listening...",end="",flush=True)
+        print(Fore.LIGHTBLUE_EX +"I am Listening...",end="",flush=True)
         print(Style.RESET_ALL,end="",flush=True)
         print("",end="",flush=True)
 
 def Trans_hindi_to_english(txt):
-    t = GoogleTranslator(
+    t= GoogleTranslator(
         source="auto",
         target="en"
     )
-    tr_word = t.translate(txt)
+    tr_word=t.translate(txt)
     return tr_word
-
-
 def listen():
     recognizer = sr.Recognizer()
     recognizer.dynamic_energy_threshold = False
@@ -58,6 +58,8 @@ def listen():
         print_thread = threading.Thread(target=print_loop)
         listen_thread.start()
         print_thread.start()
+        listen_thread.join()
+        print_thread.join()
 
 
 def hearing():
@@ -71,8 +73,7 @@ def hearing():
     recognizer.pause_threshold = 0.3
     recognizer.non_speaking_duration = 0.2
 
-    with sr.Microphone(device_index=9) as source:
-
+    with sr.Microphone() as source:
         recognizer.adjust_for_ambient_noise(source)
         while True:
 
@@ -89,4 +90,4 @@ def hearing():
             except sr.UnknownValueError:
                 recognized_txt =  ""
             finally:
-              print("\r",end="",flush=True)
+                print("\r",end="",flush=True)

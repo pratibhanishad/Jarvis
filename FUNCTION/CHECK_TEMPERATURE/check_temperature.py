@@ -1,6 +1,5 @@
 import requests
 import json
-
 from FUNCTION.JARVIS_SPEAK.speak import speak
 
 
@@ -23,7 +22,7 @@ def get_temperature_openweathermap(city):
     return None
 
 def Temp():
-    city = "Gorakhpur, Mirzapur"
+    city = "Gorakhpur, Mirzapur, Lucknow"
     temperature_celsius =  get_temperature_openweathermap(city)
 
     if temperature_celsius is not None:

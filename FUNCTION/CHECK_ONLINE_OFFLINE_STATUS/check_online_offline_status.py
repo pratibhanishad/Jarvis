@@ -19,7 +19,7 @@ def internet_status():
        x = "HEY THERE SIR ! I AM FRIDAY, SORRY BUT JARVIS IS CURRENTLY NOT ONLINE"
        print(x)
 
-def internet_status():
+def internet_status2():
     if is_online():
         x= "hey PRATIBHA ! I AM READY AND ONLINE"
 
@@ -32,7 +32,7 @@ def realtime_online_checker():
 
     while True:
         try:
-            current_status = internet_status()
+            current_status = internet_status2()
 
             if current_status != prev_status:
                 fspeak(current_status)

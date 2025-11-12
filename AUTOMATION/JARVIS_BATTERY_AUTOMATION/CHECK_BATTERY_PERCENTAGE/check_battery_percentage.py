@@ -1,5 +1,4 @@
 import psutil
-
 from FUNCTION.JARVIS_SPEAK.speak import speak
 
 

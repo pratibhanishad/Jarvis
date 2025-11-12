@@ -5,9 +5,6 @@ from nltk.stem import PorterStemmer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-from FUNCTION.JARVIS_SPEAK.speak import speak
-
-
 # Custom module (you must define it separately)
 
 # Load your Q&A dataset from a text file
@@ -45,14 +42,10 @@ def get_answer(question, vectorizer, X, dataset):
 # Main function
 def mind(text):
     # Replace with your actual QnA dataset path
-    dataset_path = r'/DATA/BRAIN_DATA/QNA_DATA/qna.txt'
+    dataset_path = r'C:\Users\PRATI\Desktop\JARVIS4.1\DATA\BRAIN_DATA\QNA_DATA\qna.txt'
     dataset = load_dataset(dataset_path)
-
     vectorizer, X = train_tfidf_vectorizer(dataset)
     user_question = text
     answer = get_answer(user_question, vectorizer, X, dataset)
-
-    speak(answer)
-
-
+    print(answer)
 

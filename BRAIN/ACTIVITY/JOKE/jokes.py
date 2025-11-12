@@ -13,7 +13,6 @@ def get_random_joke():
     }
     res = requests.get("https://icanhazdadjoke.com/", headers=headers).json()
     return res["joke"]
-
 def jokes():
     x = [ 600,550, 580, 400, 3000, 800, 700, 8200, 50, 568]
     x = random.choice(x)
